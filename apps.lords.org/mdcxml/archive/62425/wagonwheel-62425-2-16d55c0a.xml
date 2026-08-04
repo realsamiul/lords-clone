@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2025 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        inxopta-djobq04.nexus.opta.net
+     production time:    20250712T171532,283Z
+     production module:  Opta::Feed::XML::Cricket::C7
+-->
+<WagonWheel>
+  <Innings id="2" batting_team_id="3" batting_team_uuid="6d5yasbbur1fvrdmfb8zrosa3">
+    <Batter id="8240" uuid="4zxgegdh7x9a324wd0wxeh5ks">
+      <shot angle="340" ball="6" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="139" over="95" pos="Deep Cover" runs="1" />
+      <shot angle="143" ball="1" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="127" over="98" pos="Fine Leg" runs="1" />
+      <shot angle="354" ball="5" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="151" over="99" pos="Deep Point" runs="1" />
+      <shot angle="202" ball="3" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="154" over="100" pos="Deep Mid Wicket" runs="1" />
+      <shot angle="159" ball="5" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="128" over="101" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="338" ball="4" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="144" over="103" pos="Deep Cover" runs="1" />
+      <shot angle="349" ball="3" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="186" over="104" pos="Deep Cover" runs="4" />
+      <shot angle="180" ball="1" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="133" over="106" pos="Deep Square Leg" runs="1" />
+      <shot angle="322" ball="2" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="189" over="107" pos="Deep Extra Cover" runs="6" />
+      <shot angle="201" ball="4" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="145" over="108" pos="Deep Mid Wicket" runs="2" />
+      <shot angle="202" ball="1" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="126" over="111" pos="Deep Mid Wicket" runs="1" />
+      <shot angle="344" ball="1" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="150" over="114" pos="Deep Cover" runs="1" />
+      <shot angle="347" ball="4" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="2" mag="139" over="117" pos="Deep Cover" runs="1" />
+      <shot angle="202" ball="3" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="162" over="118" pos="Deep Mid Wicket" runs="1" />
+    </Batter>
+    <Batter id="12690" uuid="975vlzpu3rlsepme2glegxg8s">
+      <shot angle="346" ball="1" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="184" over="0" pos="Deep Cover" runs="4" />
+      <shot angle="47" ball="3" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="179" over="0" pos="Third Man" runs="4" />
+      <shot angle="185" ball="4" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="196" over="0" pos="Deep Square Leg" runs="4" />
+      <shot angle="359" ball="5" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="139" over="0" pos="Deep Point" runs="1" />
+    </Batter>
+    <Batter id="13807" uuid="a4hitpdklxn4w451ayll9h6kc">
+      <shot angle="317" ball="4" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="99" over="114" pos="Mid Wicket" runs="1" />
+      <shot angle="7" ball="1" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="183" over="115" pos="Deep Square Leg" runs="6" />
+    </Batter>
+    <Batter id="6698" uuid="4zm0sngkdf418oix17s8tvbek">
+      <shot angle="323" ball="1" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="58" over="2" pos="Short Mid Wicket" runs="1" />
+      <shot angle="200" ball="1" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="80" over="3" pos="Cover" runs="1" />
+      <shot angle="4" ball="1" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="153" over="4" pos="Deep Square Leg" runs="1" />
+      <shot angle="18" ball="6" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="140" over="4" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="199" ball="3" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="85" over="5" pos="Cover" runs="1" />
+      <shot angle="36" ball="1" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="173" over="6" pos="Fine Leg" runs="4" />
+      <shot angle="17" ball="3" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="139" over="8" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="230" ball="2" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="83" over="9" pos="Mid Off" runs="1" />
+      <shot angle="23" ball="4" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="145" over="10" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="13" ball="3" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="144" over="13" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="304" ball="2" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="94" over="15" pos="Mid On" runs="1" />
+      <shot angle="2" ball="5" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="103" over="16" pos="Square Leg" runs="1" />
+      <shot angle="221" ball="1" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="217" over="18" pos="Deep Extra Cover" runs="4" />
+      <shot angle="246" ball="2" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="147" over="19" pos="Long Off" runs="2" />
+      <shot angle="77" ball="3" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="177" over="22" pos="Fine Leg" runs="4" />
+      <shot angle="165" ball="2" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="74" over="25" pos="Backward Point" runs="1" />
+      <shot angle="129" ball="4" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="141" over="25" pos="Third Man" runs="2" />
+      <shot angle="343" ball="5" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="180" over="25" pos="Deep Mid Wicket" runs="4" />
+      <shot angle="73" ball="6" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="140" over="25" pos="Fine Leg" runs="2" />
+      <shot angle="132" ball="1" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="141" over="29" pos="Third Man" runs="2" />
+      <shot angle="41" ball="2" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="146" over="30" pos="Fine Leg" runs="1" />
+      <shot angle="162" ball="5" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="124" over="33" pos="Deep Backward Point" runs="3" />
+      <shot angle="304" ball="2" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="1" mag="94" over="34" pos="Mid On" runs="1" />
+      <shot angle="303" ball="6" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="1" mag="101" over="34" pos="Mid On" runs="1" />
+      <shot angle="163" ball="1" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="81" over="35" pos="Backward Point" runs="1" />
+      <shot angle="296" ball="1" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="1" mag="77" over="36" pos="Mid On" runs="1" />
+      <shot angle="117" ball="2" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="175" over="37" pos="Third Man" runs="4" />
+      <shot angle="236" ball="4" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="85" over="37" pos="Mid Off" runs="1" />
+      <shot angle="179" ball="1" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="1" mag="138" over="38" pos="Deep Point" runs="1" />
+      <shot angle="237" ball="3" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="95" over="39" pos="Mid Off" runs="1" />
+      <shot angle="224" ball="6" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="151" over="39" pos="Deep Extra Cover" runs="2" />
+      <shot angle="11" ball="2" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="106" over="45" pos="Backward Square Leg" runs="1" />
+      <shot angle="159" ball="6" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="177" over="50" pos="Deep Backward Point" runs="4" />
+      <shot angle="61" ball="2" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="134" over="51" pos="Fine Leg" runs="2" />
+      <shot angle="292" ball="4" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="191" over="51" pos="Long On" runs="4" />
+      <shot angle="359" ball="4" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="179" over="53" pos="Deep Square Leg" runs="4" />
+      <shot angle="154" ball="5" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="173" over="53" pos="Deep Backward Point" runs="4" />
+      <shot angle="359" ball="6" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="180" over="53" pos="Deep Square Leg" runs="4" />
+      <shot angle="137" ball="3" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="129" over="56" pos="Third Man" runs="1" />
+      <shot angle="155" ball="6" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="81" over="56" pos="Backward Point" runs="1" />
+      <shot angle="43" ball="2" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="136" over="57" pos="Fine Leg" runs="1" />
+      <shot angle="215" ball="4" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="194" over="57" pos="Deep Extra Cover" runs="4" />
+      <shot angle="22" ball="5" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="106" over="58" pos="Backward Square Leg" runs="1" />
+      <shot angle="50" ball="2" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="143" over="59" pos="Fine Leg" runs="1" />
+      <shot angle="183" ball="6" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="181" over="59" pos="Deep Point" runs="4" />
+      <shot angle="13" ball="2" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="109" over="60" pos="Backward Square Leg" runs="1" />
+      <shot angle="296" ball="3" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="1" mag="129" over="61" pos="Mid On" runs="1" />
+      <shot angle="35" ball="2" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="165" over="62" pos="Fine Leg" runs="4" />
+      <shot angle="38" ball="5" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="129" over="62" pos="Fine Leg" runs="1" />
+      <shot angle="18" ball="4" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="138" over="64" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="197" ball="1" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="1" mag="146" over="65" pos="Deep Cover" runs="1" />
+      <shot angle="344" ball="4" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="1" mag="151" over="65" pos="Deep Mid Wicket" runs="1" />
+      <shot angle="208" ball="4" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="69" over="66" pos="Extra Cover" runs="1" />
+    </Batter>
+    <Batter id="8229" uuid="94asxemad4e6r4eok0ptx36gs">
+      <shot angle="6" ball="3" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="91" over="33" pos="Point" runs="1" />
+      <shot angle="175" ball="4" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="203" over="34" pos="Deep Square Leg" runs="4" />
+      <shot angle="236" ball="5" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="88" over="34" pos="Mid On" runs="1" />
+      <shot angle="26" ball="3" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="177" over="36" pos="Deep Backward Point" runs="4" />
+      <shot angle="213" ball="6" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="197" over="36" pos="Deep Mid Wicket" runs="4" />
+      <shot angle="136" ball="5" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="132" over="38" pos="Fine Leg" runs="2" />
+      <shot angle="12" ball="4" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="138" over="40" pos="Deep Backward Point" runs="2" />
+      <shot angle="170" ball="3" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="122" over="42" pos="Backward Square Leg" runs="1" />
+      <shot angle="123" ball="1" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="2" mag="175" over="43" pos="Fine Leg" runs="4" />
+      <shot angle="335" ball="4" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="2" mag="201" over="43" pos="Deep Cover" runs="4" />
+      <shot angle="137" ball="5" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="2" mag="129" over="43" pos="Fine Leg" runs="1" />
+      <shot angle="183" ball="1" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="147" over="44" pos="Deep Square Leg" runs="1" />
+      <shot angle="216" ball="1" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="2" mag="89" over="45" pos="Mid Wicket" runs="1" />
+      <shot angle="143" ball="3" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="2" mag="67" over="45" pos="Leg Gully" runs="1" />
+      <shot angle="308" ball="5" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="102" over="50" pos="Mid Off" runs="1" />
+      <shot angle="204" ball="1" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="149" over="51" pos="Deep Mid Wicket" runs="2" />
+      <shot angle="204" ball="2" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="86" over="51" pos="Mid Wicket" runs="1" />
+      <shot angle="289" ball="1" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="196" over="52" pos="Long Off" runs="4" />
+      <shot angle="285" ball="6" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="138" over="52" pos="Long Off" runs="2" />
+      <shot angle="41" ball="4" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="172" over="54" pos="Third Man" runs="4" />
+      <shot angle="171" ball="6" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="140" over="54" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="160" ball="5" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="128" over="56" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="51" ball="3" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="146" over="57" pos="Third Man" runs="1" />
+      <shot angle="128" ball="4" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="134" over="58" pos="Fine Leg" runs="1" />
+      <shot angle="155" ball="6" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="179" over="58" pos="Deep Backward Square Leg" runs="6" />
+      <shot angle="189" ball="5" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="140" over="59" pos="Deep Mid Wicket" runs="1" />
+      <shot angle="165" ball="1" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="88" over="60" pos="Backward Square Leg" runs="1" />
+      <shot angle="138" ball="6" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="129" over="60" pos="Fine Leg" runs="1" />
+      <shot angle="286" ball="1" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="195" over="61" pos="Long Off" runs="6" />
+      <shot angle="150" ball="2" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="84" over="61" pos="Backward Square Leg" runs="1" />
+      <shot angle="160" ball="5" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="151" over="61" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="162" ball="1" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="138" over="62" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="180" ball="6" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="129" over="62" pos="Deep Square Leg" runs="1" />
+      <shot angle="356" ball="6" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="141" over="63" pos="Deep Point" runs="1" />
+      <shot angle="43" ball="1" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="172" over="64" pos="Third Man" runs="4" />
+      <shot angle="149" ball="2" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="146" over="64" pos="Fine Leg" runs="1" />
+    </Batter>
+    <Batter id="3856" uuid="4yvbag04dfkuoo5xlq920cdq4">
+      <shot angle="219" ball="5" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="154" over="65" pos="Deep Mid Wicket" runs="3" />
+      <shot angle="230" ball="1" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="2" mag="83" over="66" pos="Mid On" runs="1" />
+      <shot angle="125" ball="5" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="143" over="69" pos="Fine Leg" runs="3" />
+      <shot angle="150" ball="1" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="2" mag="128" over="70" pos="Fine Leg" runs="1" />
+      <shot angle="356" ball="2" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="136" over="71" pos="Deep Point" runs="1" />
+      <shot angle="199" ball="2" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="2" mag="57" over="72" pos="Short Mid Wicket" runs="1" />
+      <shot angle="138" ball="2" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="126" over="73" pos="Fine Leg" runs="2" />
+      <shot angle="213" ball="4" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="217" over="73" pos="Deep Mid Wicket" runs="4" />
+      <shot angle="52" ball="4" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="183" over="74" pos="Third Man" runs="4" />
+      <shot angle="195" ball="2" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="93" over="75" pos="Mid Wicket" runs="1" />
+      <shot angle="218" ball="6" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="61" over="75" pos="Short Mid Wicket" runs="1" />
+      <shot angle="16" ball="4" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="53" over="76" pos="Gully" runs="1" />
+      <shot angle="257" ball="5" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="2" mag="82" over="77" pos="Mid On" runs="1" />
+      <shot angle="192" ball="1" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="138" over="78" pos="Deep Mid Wicket" runs="1" />
+      <shot angle="234" ball="4" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="91" over="79" pos="Mid On" runs="1" />
+      <shot angle="240" ball="1" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="71" over="80" pos="Mid On" runs="1" />
+      <shot angle="121" ball="1" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="2" mag="196" over="81" pos="Fine Leg" runs="4" />
+      <shot angle="207" ball="4" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="2" mag="86" over="83" pos="Mid Wicket" runs="1" />
+      <shot angle="22" ball="2" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="72" over="86" pos="Backward Point" runs="1" />
+      <shot angle="340" ball="1" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="138" over="87" pos="Deep Cover" runs="2" />
+      <shot angle="292" ball="4" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="88" over="87" pos="Mid Off" runs="1" />
+      <shot angle="190" ball="1" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="151" over="88" pos="Deep Mid Wicket" runs="1" />
+      <shot angle="326" ball="1" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="59" over="89" pos="Short Extra Cover" runs="1" />
+      <shot angle="0" ball="5" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="62" over="89" pos="Point" runs="1" />
+      <shot angle="322" ball="2" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="2" mag="40" over="90" pos="Short Extra Cover" runs="1" />
+      <shot angle="202" ball="1" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="185" over="93" pos="Deep Mid Wicket" runs="4" />
+      <shot angle="331" ball="2" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="157" over="95" pos="Deep Extra Cover" runs="1" />
+      <shot angle="164" ball="5" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="84" over="96" pos="Backward Square Leg" runs="1" />
+      <shot angle="302" ball="4" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="212" over="97" pos="Long Off" runs="4" />
+      <shot angle="168" ball="5" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="2" mag="110" over="100" pos="Backward Square Leg" runs="1" />
+      <shot angle="322" ball="4" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="82" over="101" pos="Extra Cover" runs="1" />
+      <shot angle="304" ball="2" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="75" over="103" pos="Mid Off" runs="1" />
+      <shot angle="297" ball="6" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="195" over="103" pos="Long Off" runs="6" />
+      <shot angle="20" ball="3" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="2" mag="182" over="105" pos="Deep Backward Point" runs="4" />
+      <shot angle="123" ball="2" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="198" over="106" pos="Fine Leg" runs="4" />
+      <shot angle="50" ball="3" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="195" over="106" pos="Third Man" runs="4" />
+      <shot angle="26" ball="1" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="2" mag="42" over="108" pos="Fourth Slip" runs="1" />
+    </Batter>
+    <Batter id="11023" uuid="50o911izz4pbww5d4lhjwlu9o">
+      <shot angle="323" ball="2" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="55" over="22" pos="Short Mid Wicket" runs="1" />
+      <shot angle="16" ball="5" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="140" over="23" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="309" ball="3" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="109" over="25" pos="Mid On" runs="1" />
+      <shot angle="47" ball="1" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="149" over="26" pos="Fine Leg" runs="2" />
+      <shot angle="0" ball="3" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="158" over="26" pos="Deep Square Leg" runs="1" />
+      <shot angle="118" ball="2" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="184" over="27" pos="Third Man" runs="4" />
+      <shot angle="338" ball="5" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="97" over="27" pos="Mid Wicket" runs="1" />
+      <shot angle="359" ball="6" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="147" over="30" pos="Deep Square Leg" runs="1" />
+      <shot angle="280" ball="2" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="206" over="31" pos="Long On" runs="4" />
+    </Batter>
+    <Batter id="5342" uuid="4zb70wvdmdga1twyond5tzbzw">
+      <shot angle="166" ball="2" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="129" over="2" pos="Deep Backward Point" runs="2" />
+      <shot angle="19" ball="3" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="141" over="4" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="166" ball="5" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="132" over="5" pos="Deep Backward Point" runs="2" />
+      <shot angle="254" ball="4" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="210" over="7" pos="Long Off" runs="4" />
+      <shot angle="70" ball="5" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="179" over="7" pos="Fine Leg" runs="4" />
+      <shot angle="228" ball="6" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="138" over="7" pos="Deep Extra Cover" runs="2" />
+      <shot angle="164" ball="6" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="108" over="8" pos="Backward Point" runs="1" />
+      <shot angle="293" ball="1" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="132" over="9" pos="Long On" runs="1" />
+      <shot angle="170" ball="5" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="81" over="13" pos="Backward Point" runs="1" />
+      <shot angle="250" ball="5" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="158" over="14" pos="Long Off" runs="3" />
+      <shot angle="163" ball="1" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="76" over="15" pos="Backward Point" runs="1" />
+      <shot angle="203" ball="3" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="197" over="15" pos="Deep Cover" runs="4" />
+      <shot angle="217" ball="6" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="151" over="16" pos="Deep Extra Cover" runs="3" />
+      <shot angle="144" ball="1" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="185" over="17" pos="Third Man" runs="4" />
+      <shot angle="5" ball="2" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="152" over="17" pos="Deep Square Leg" runs="2" />
+      <shot angle="48" ball="3" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="146" over="17" pos="Fine Leg" runs="2" />
+      <shot angle="291" ball="1" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="150" over="19" pos="Long On" runs="3" />
+    </Batter>
+    <Batter id="13733" uuid="3epfhbczdu7xzwpuqcqjlbgcc">
+      <shot angle="0" ball="1" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="47" over="74" pos="Leg Gully" runs="1" />
+      <shot angle="288" ball="1" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="1" mag="143" over="75" pos="Long On" runs="1" />
+      <shot angle="203" ball="4" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="1" mag="159" over="75" pos="Deep Cover" runs="3" />
+      <shot angle="359" ball="6" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="101" over="76" pos="Square Leg" runs="1" />
+      <shot angle="328" ball="2" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="1" mag="197" over="77" pos="Deep Mid Wicket" runs="4" />
+      <shot angle="165" ball="3" bowler_id="16442" bowler_uuid="36nkr1c6ot76opm9myyszani4" hand="1" mag="124" over="77" pos="Deep Backward Point" runs="1" />
+      <shot angle="50" ball="5" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="1" mag="131" over="79" pos="Fine Leg" runs="2" />
+      <shot angle="58" ball="3" bowler_id="9799" bowler_uuid="50aputzsmqkppzbt860y581vg" hand="1" mag="183" over="82" pos="Fine Leg" runs="4" />
+      <shot angle="19" ball="5" bowler_id="9855" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" hand="1" mag="95" over="83" pos="Backward Square Leg" runs="1" />
+      <shot angle="159" ball="6" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="118" over="84" pos="Deep Backward Point" runs="1" />
+      <shot angle="64" ball="2" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="176" over="88" pos="Fine Leg" runs="4" />
+      <shot angle="21" ball="3" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="134" over="89" pos="Deep Backward Square Leg" runs="1" />
+      <shot angle="283" ball="4" bowler_id="4074" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" hand="1" mag="77" over="90" pos="Mid On" runs="1" />
+      <shot angle="358" ball="4" bowler_id="4541" bowler_uuid="4z46e623qptbmvwf99pfvcz98" hand="1" mag="95" over="91" pos="Square Leg" runs="1" />
+      <shot angle="129" ball="3" bowler_id="4489" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" hand="1" mag="176" over="92" pos="Third Man" runs="4" />
+    </Batter>
+  </Innings>
+  <MatchDetail away_team="India" competition_id="3542" competition_name="England v India Test Series 2025" description="3rd Test" game_date="2025-07-10" game_date_time="2025-07-10T11:00:00+01:00" game_id="62425" game_uuid="a2wzlljrb46ngx62n1f14156k" home_team="England" number_days="5" result="Scores are level" status_id="1" toss="England won the toss and elected to bat." venue_id="40" />
+  <PlayerDetail>
+    <Team home_or_away="home" team_id="2" team_name="England" team_uuid="1ewg51wknqsmljpbydgdldfsl">
+      <Player id="9855" player_first_name="Jofra" player_last_name="Archer" player_name="Jofra Archer" uuid="1536j7r3i8gynncj0im8rmq2k" />
+      <Player id="9845" player_first_name="Harry" player_last_name="Brook" player_name="Harry Brook" uuid="50b0kdo6gh782yht008y6o0vw" />
+      <Player id="4541" player_first_name="Joseph" player_last_name="Root" player_name="Joe Root" uuid="4z46e623qptbmvwf99pfvcz98" />
+      <Player id="5511" player_first_name="Ben" player_last_name="Duckett" player_name="Ben Duckett" uuid="4zcup0rai861j19oa0fmq137g" />
+      <Player id="16442" player_first_name="Shoaib" player_last_name="Bashir" player_name="Shoaib Bashir" uuid="36nkr1c6ot76opm9myyszani4" />
+      <Player id="4074" player_first_name="Christopher" player_last_name="Woakes" player_name="Chris Woakes" uuid="ejow5fczazlo1qqm97dz3wpks" />
+      <Player id="12146" keeper="-1" player_first_name="Jamie" player_last_name="Smith" player_name="Jamie Smith" uuid="50y4e7ogocwl3zejmibq3wwos" />
+      <Player id="9799" player_first_name="Brydon" player_last_name="Carse" player_name="Brydon Carse" uuid="50aputzsmqkppzbt860y581vg" />
+      <Player id="10696" player_first_name="Oliver" player_last_name="Pope" player_name="Ollie Pope" uuid="50kaxja3fi8osxt4au2utwews" />
+      <Player id="11170" player_first_name="Zak" player_last_name="Crawley" player_name="Zak Crawley" uuid="prmqyf8ivxirmvxosps7mu0s" />
+      <Player id="4489" captain="-1" player_first_name="Benjamin" player_last_name="Stokes" player_name="Ben Stokes" uuid="dfj9tj9u20y4kms3kqrmkioho" />
+    </Team>
+    <Team home_or_away="away" team_id="3" team_name="India" team_uuid="6d5yasbbur1fvrdmfb8zrosa3">
+      <Player id="6684" player_first_name="Jasprit" player_last_name="Bumrah" player_name="Jasprit Bumrah" uuid="4zlws7ncp3g6e6o2yuzug4ha4" />
+      <Player id="13733" player_first_name="Kaki" player_last_name="Reddy" player_name="Nitish Kumar Reddy" uuid="3epfhbczdu7xzwpuqcqjlbgcc" />
+      <Player id="5342" player_first_name="Karun" player_last_name="Nair" player_name="Karun Nair" uuid="4zb70wvdmdga1twyond5tzbzw" />
+      <Player id="11023" captain="-1" player_first_name="Shubman" player_last_name="Gill" player_name="Shubman Gill" uuid="50o911izz4pbww5d4lhjwlu9o" />
+      <Player id="3856" player_first_name="Ravindrasinh" player_last_name="Jadeja" player_name="Ravindra Jadeja" uuid="4yvbag04dfkuoo5xlq920cdq4" />
+      <Player id="6698" player_first_name="Kannanur" player_last_name="Rahul" player_name="Lokesh Rahul" uuid="4zm0sngkdf418oix17s8tvbek" />
+      <Player id="8229" keeper="-1" player_first_name="Rishabh" player_last_name="Pant" player_name="Rishabh Pant" uuid="94asxemad4e6r4eok0ptx36gs" />
+      <Player id="13807" player_first_name="Akash" player_last_name="Deep" player_name="Akash Deep" uuid="a4hitpdklxn4w451ayll9h6kc" />
+      <Player id="11100" player_first_name="Mohammed" player_last_name="Siraj" player_name="Mohammed Siraj" uuid="50paeop1dwdb43mt8vwmeyfek" />
+      <Player id="12690" player_first_name="Yashasvi" player_last_name="Jaiswal" player_name="Yashasvi Jaiswal" uuid="975vlzpu3rlsepme2glegxg8s" />
+      <Player id="8240" player_first_name="Washington" player_last_name="Sundar" player_name="Washington Sundar" uuid="4zxgegdh7x9a324wd0wxeh5ks" />
+    </Team>
+  </PlayerDetail>
+</WagonWheel>

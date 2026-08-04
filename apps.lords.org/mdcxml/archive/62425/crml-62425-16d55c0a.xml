@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2025 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        inxopta-djobq03.nexus.opta.net
+     production time:    20250716T075522,211Z
+     production module:  Opta::Feed::XML::Cricket::C2
+-->
+<CricketMatchSummary timestamp="20250716T085522+0100">
+  <Innings id="1" batting_team_id="2" batting_team_uuid="1ewg51wknqsmljpbydgdldfsl" bowling_team_id="3" bowling_team_uuid="6d5yasbbur1fvrdmfb8zrosa3" declared="0" follow_on="0" forfeited="0" overnight_runs="0" overnight_wickets="0">
+    <Batters>
+      <Batter id="11170" balls_faced="43" batter_strike_rate="41.9" batter_uuid="prmqyf8ivxirmvxosps7mu0s" bowled_by="13733" bowled_by_uuid="3epfhbczdu7xzwpuqcqjlbgcc" caught_by="8229" caught_by_uuid="94asxemad4e6r4eok0ptx36gs" day="1" dismissal_id="3" fours_scored="4" how_out="Caught Rishabh Pant Bowled Nitish Kumar Reddy" minutes="72" non_strike="0" on_strike="0" order="1" runs_scored="18" sixes_scored="0" />
+      <Batter id="5511" balls_faced="40" batter_strike_rate="57.5" batter_uuid="4zcup0rai861j19oa0fmq137g" bowled_by="13733" bowled_by_uuid="3epfhbczdu7xzwpuqcqjlbgcc" caught_by="8229" caught_by_uuid="94asxemad4e6r4eok0ptx36gs" day="1" dismissal_id="3" fours_scored="3" how_out="Caught Rishabh Pant Bowled Nitish Kumar Reddy" minutes="69" non_strike="0" on_strike="0" order="2" runs_scored="23" sixes_scored="0" />
+      <Batter id="10696" balls_faced="104" batter_strike_rate="42.3" batter_uuid="50kaxja3fi8osxt4au2utwews" bowled_by="3856" bowled_by_uuid="4yvbag04dfkuoo5xlq920cdq4" caught_by="0" caught_by_uuid="" day="1" dismissal_id="14" fours_scored="4" how_out="Caught (Sub) Bowled Ravindra Jadeja" minutes="177" non_strike="0" on_strike="0" order="3" runs_scored="44" sixes_scored="0" />
+      <Batter id="4541" balls_faced="199" batter_strike_rate="52.3" batter_uuid="4z46e623qptbmvwf99pfvcz98" bowled_by="6684" bowled_by_uuid="4zlws7ncp3g6e6o2yuzug4ha4" caught_by="0" caught_by_uuid="" day="2" dismissal_id="1" fours_scored="10" how_out="Bowled Jasprit Bumrah" minutes="342" non_strike="0" on_strike="0" order="4" runs_scored="104" sixes_scored="0" />
+      <Batter id="9845" balls_faced="20" batter_strike_rate="55.0" batter_uuid="50b0kdo6gh782yht008y6o0vw" bowled_by="6684" bowled_by_uuid="4zlws7ncp3g6e6o2yuzug4ha4" caught_by="0" caught_by_uuid="" day="1" dismissal_id="1" fours_scored="2" how_out="Bowled Jasprit Bumrah" minutes="24" non_strike="0" on_strike="0" order="5" runs_scored="11" sixes_scored="0" />
+      <Batter id="4489" balls_faced="110" batter_strike_rate="40.0" batter_uuid="dfj9tj9u20y4kms3kqrmkioho" bowled_by="6684" bowled_by_uuid="4zlws7ncp3g6e6o2yuzug4ha4" caught_by="0" caught_by_uuid="" day="2" dismissal_id="1" fours_scored="4" how_out="Bowled Jasprit Bumrah" minutes="137" non_strike="0" on_strike="0" order="6" runs_scored="44" sixes_scored="0" />
+      <Batter id="12146" balls_faced="56" batter_strike_rate="91.1" batter_uuid="50y4e7ogocwl3zejmibq3wwos" bowled_by="11100" bowled_by_uuid="50paeop1dwdb43mt8vwmeyfek" caught_by="0" caught_by_uuid="" day="2" dismissal_id="14" fours_scored="6" how_out="Caught (Sub) Bowled Mohammed Siraj" minutes="116" non_strike="0" on_strike="0" order="7" runs_scored="51" sixes_scored="0" />
+      <Batter id="4074" balls_faced="1" batter_strike_rate="0.0" batter_uuid="ejow5fczazlo1qqm97dz3wpks" bowled_by="6684" bowled_by_uuid="4zlws7ncp3g6e6o2yuzug4ha4" caught_by="0" caught_by_uuid="" day="2" dismissal_id="14" fours_scored="0" how_out="Caught (Sub) Bowled Jasprit Bumrah" minutes="4" non_strike="0" on_strike="0" order="8" runs_scored="0" sixes_scored="0" />
+      <Batter id="9799" balls_faced="83" batter_strike_rate="67.5" batter_uuid="50aputzsmqkppzbt860y581vg" bowled_by="11100" bowled_by_uuid="50paeop1dwdb43mt8vwmeyfek" caught_by="0" caught_by_uuid="" day="2" dismissal_id="1" fours_scored="6" how_out="Bowled Mohammed Siraj" minutes="137" non_strike="0" on_strike="0" order="9" runs_scored="56" sixes_scored="1" />
+      <Batter id="9855" balls_faced="11" batter_strike_rate="36.4" batter_uuid="1536j7r3i8gynncj0im8rmq2k" bowled_by="6684" bowled_by_uuid="4zlws7ncp3g6e6o2yuzug4ha4" caught_by="0" caught_by_uuid="" day="2" dismissal_id="1" fours_scored="1" how_out="Bowled Jasprit Bumrah" minutes="17" non_strike="0" on_strike="0" order="10" runs_scored="4" sixes_scored="0" />
+      <Batter id="16442" balls_faced="10" batter_strike_rate="10.0" batter_uuid="36nkr1c6ot76opm9myyszani4" bowled_by="0" bowled_by_uuid="" caught_by="0" caught_by_uuid="" day="2" dismissal_id="0" fours_scored="0" how_out="Not Out" minutes="21" non_strike="1" on_strike="0" order="11" runs_scored="1" sixes_scored="0" />
+    </Batters>
+    <Bowlers>
+      <Bowler id="6684" balls_bowled="0" bowler_average="14.8" bowler_strike_rate="32.4" bowler_uuid="4zlws7ncp3g6e6o2yuzug4ha4" dot_balls="125" illegal_balls_bowled="0" maidens_bowled="5" no_balls="0" non_strike="0" on_strike="0" order="1" overs_bowled="27" runs_conceded="74" total_balls_bowled="162" wickets_taken="5" wides="0" />
+      <Bowler id="13807" balls_bowled="0" bowler_uuid="a4hitpdklxn4w451ayll9h6kc" dot_balls="89" illegal_balls_bowled="1" maidens_bowled="3" no_balls="1" non_strike="1" on_strike="0" order="2" overs_bowled="23" runs_conceded="92" total_balls_bowled="138" wickets_taken="0" wides="0" />
+      <Bowler id="11100" balls_bowled="3" bowler_average="42.5" bowler_strike_rate="70.5" bowler_uuid="50paeop1dwdb43mt8vwmeyfek" dot_balls="101" illegal_balls_bowled="0" maidens_bowled="6" no_balls="0" non_strike="0" on_strike="1" order="3" overs_bowled="23" runs_conceded="85" total_balls_bowled="141" wickets_taken="2" wides="1" />
+      <Bowler id="13733" balls_bowled="0" bowler_average="31.0" bowler_strike_rate="51.0" bowler_uuid="3epfhbczdu7xzwpuqcqjlbgcc" dot_balls="71" illegal_balls_bowled="0" maidens_bowled="0" no_balls="0" non_strike="0" on_strike="0" order="4" overs_bowled="17" runs_conceded="62" total_balls_bowled="102" wickets_taken="2" wides="0" />
+      <Bowler id="3856" balls_bowled="0" bowler_average="29.0" bowler_strike_rate="73.0" bowler_uuid="4yvbag04dfkuoo5xlq920cdq4" dot_balls="50" illegal_balls_bowled="1" maidens_bowled="1" no_balls="1" non_strike="0" on_strike="0" order="5" overs_bowled="12" runs_conceded="29" total_balls_bowled="72" wickets_taken="1" wides="0" />
+      <Bowler id="8240" balls_bowled="0" bowler_uuid="4zxgegdh7x9a324wd0wxeh5ks" dot_balls="40" illegal_balls_bowled="0" maidens_bowled="1" no_balls="0" non_strike="0" on_strike="0" order="6" overs_bowled="10" runs_conceded="21" total_balls_bowled="60" wickets_taken="0" wides="0" />
+    </Bowlers>
+    <Extras byes="11" leg_byes="13" no_balls="2" penalties="0" total_extras="31" wides="5" />
+    <FallofWickets>
+      <FallofWicket order="1" over_ball="13.3" player_id="5511" player_uuid="4zcup0rai861j19oa0fmq137g" runs="43" />
+      <FallofWicket order="2" over_ball="13.6" player_id="11170" player_uuid="prmqyf8ivxirmvxosps7mu0s" runs="44" />
+      <FallofWicket order="3" over_ball="49.1" player_id="10696" player_uuid="50kaxja3fi8osxt4au2utwews" runs="153" />
+      <FallofWicket order="4" over_ball="54.5" player_id="9845" player_uuid="50b0kdo6gh782yht008y6o0vw" runs="172" />
+      <FallofWicket order="5" over_ball="85.2" player_id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs="260" />
+      <FallofWicket order="6" over_ball="87.1" player_id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs="271" />
+      <FallofWicket order="7" over_ball="87.2" player_id="4074" player_uuid="ejow5fczazlo1qqm97dz3wpks" runs="271" />
+      <FallofWicket order="8" over_ball="106.2" player_id="12146" player_uuid="50y4e7ogocwl3zejmibq3wwos" runs="355" />
+      <FallofWicket order="9" over_ball="109.3" player_id="9855" player_uuid="1536j7r3i8gynncj0im8rmq2k" runs="370" />
+      <FallofWicket order="10" over_ball="112.3" player_id="9799" player_uuid="50aputzsmqkppzbt860y581vg" runs="387" />
+    </FallofWickets>
+    <Total overs="112.3" runs_scored="387" wickets="10" />
+  </Innings>
+  <Innings id="2" batting_team_id="3" batting_team_uuid="6d5yasbbur1fvrdmfb8zrosa3" bowling_team_id="2" bowling_team_uuid="1ewg51wknqsmljpbydgdldfsl" declared="0" follow_on="0" forfeited="0" overnight_runs="0" overnight_wickets="0">
+    <Batters>
+      <Batter id="12690" balls_faced="8" batter_strike_rate="162.5" batter_uuid="975vlzpu3rlsepme2glegxg8s" bowled_by="9855" bowled_by_uuid="1536j7r3i8gynncj0im8rmq2k" caught_by="9845" caught_by_uuid="50b0kdo6gh782yht008y6o0vw" day="2" dismissal_id="3" fours_scored="3" how_out="Caught Harry Brook Bowled Jofra Archer" minutes="10" non_strike="0" on_strike="0" order="1" runs_scored="13" sixes_scored="0" />
+      <Batter id="6698" balls_faced="177" batter_strike_rate="56.5" batter_uuid="4zm0sngkdf418oix17s8tvbek" bowled_by="16442" bowled_by_uuid="36nkr1c6ot76opm9myyszani4" caught_by="9845" caught_by_uuid="50b0kdo6gh782yht008y6o0vw" day="3" dismissal_id="3" fours_scored="13" how_out="Caught Harry Brook Bowled Shoaib Bashir" minutes="345" non_strike="0" on_strike="0" order="2" runs_scored="100" sixes_scored="0" />
+      <Batter id="5342" balls_faced="62" batter_strike_rate="64.5" batter_uuid="4zb70wvdmdga1twyond5tzbzw" bowled_by="4489" bowled_by_uuid="dfj9tj9u20y4kms3kqrmkioho" caught_by="4541" caught_by_uuid="4z46e623qptbmvwf99pfvcz98" day="2" dismissal_id="3" fours_scored="4" how_out="Caught Joe Root Bowled Ben Stokes" minutes="94" non_strike="0" on_strike="0" order="3" runs_scored="40" sixes_scored="0" />
+      <Batter id="11023" balls_faced="44" batter_strike_rate="36.4" batter_uuid="50o911izz4pbww5d4lhjwlu9o" bowled_by="4074" bowled_by_uuid="ejow5fczazlo1qqm97dz3wpks" caught_by="12146" caught_by_uuid="50y4e7ogocwl3zejmibq3wwos" day="2" dismissal_id="3" fours_scored="2" how_out="Caught Jamie Smith Bowled Chris Woakes" minutes="66" non_strike="0" on_strike="0" order="4" runs_scored="16" sixes_scored="0" />
+      <Batter id="8229" balls_faced="112" batter_strike_rate="66.1" batter_uuid="94asxemad4e6r4eok0ptx36gs" bowled_by="0" bowled_by_uuid="" caught_by="4489" caught_by_uuid="dfj9tj9u20y4kms3kqrmkioho" day="3" dismissal_id="11" fours_scored="8" how_out="Run Out Ben Stokes" minutes="169" non_strike="0" on_strike="0" order="5" runs_scored="74" sixes_scored="2" />
+      <Batter id="3856" balls_faced="131" batter_strike_rate="55.0" batter_uuid="4yvbag04dfkuoo5xlq920cdq4" bowled_by="4074" bowled_by_uuid="ejow5fczazlo1qqm97dz3wpks" caught_by="12146" caught_by_uuid="50y4e7ogocwl3zejmibq3wwos" day="3" dismissal_id="3" fours_scored="8" how_out="Caught Jamie Smith Bowled Chris Woakes" minutes="217" non_strike="0" on_strike="0" order="6" runs_scored="72" sixes_scored="1" />
+      <Batter id="13733" balls_faced="91" batter_strike_rate="33.0" batter_uuid="3epfhbczdu7xzwpuqcqjlbgcc" bowled_by="4489" bowled_by_uuid="dfj9tj9u20y4kms3kqrmkioho" caught_by="12146" caught_by_uuid="50y4e7ogocwl3zejmibq3wwos" day="3" dismissal_id="3" fours_scored="4" how_out="Caught Jamie Smith Bowled Ben Stokes" minutes="128" non_strike="0" on_strike="0" order="7" runs_scored="30" sixes_scored="0" />
+      <Batter id="8240" balls_faced="76" batter_strike_rate="30.3" batter_uuid="4zxgegdh7x9a324wd0wxeh5ks" bowled_by="9855" bowled_by_uuid="1536j7r3i8gynncj0im8rmq2k" caught_by="9845" caught_by_uuid="50b0kdo6gh782yht008y6o0vw" day="3" dismissal_id="3" fours_scored="1" how_out="Caught Harry Brook Bowled Jofra Archer" minutes="117" non_strike="0" on_strike="0" order="8" runs_scored="23" sixes_scored="1" />
+      <Batter id="13807" balls_faced="10" batter_strike_rate="70.0" batter_uuid="a4hitpdklxn4w451ayll9h6kc" bowled_by="9799" bowled_by_uuid="50aputzsmqkppzbt860y581vg" caught_by="9845" caught_by_uuid="50b0kdo6gh782yht008y6o0vw" day="3" dismissal_id="3" fours_scored="0" how_out="Caught Harry Brook Bowled Brydon Carse" minutes="18" non_strike="0" on_strike="0" order="9" runs_scored="7" sixes_scored="1" />
+      <Batter id="6684" balls_faced="8" batter_strike_rate="0.0" batter_uuid="4zlws7ncp3g6e6o2yuzug4ha4" bowled_by="4074" bowled_by_uuid="ejow5fczazlo1qqm97dz3wpks" caught_by="12146" caught_by_uuid="50y4e7ogocwl3zejmibq3wwos" day="3" dismissal_id="3" fours_scored="0" how_out="Caught Jamie Smith Bowled Chris Woakes" minutes="15" non_strike="0" on_strike="0" order="10" runs_scored="0" sixes_scored="0" />
+      <Batter id="11100" balls_faced="2" batter_strike_rate="0.0" batter_uuid="50paeop1dwdb43mt8vwmeyfek" bowled_by="0" bowled_by_uuid="" caught_by="0" caught_by_uuid="" day="3" dismissal_id="0" fours_scored="0" how_out="Not Out" minutes="6" non_strike="1" on_strike="0" order="11" runs_scored="0" sixes_scored="0" />
+    </Batters>
+    <Bowlers>
+      <Bowler id="4074" balls_bowled="0" bowler_average="28.0" bowler_strike_rate="54.0" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" dot_balls="121" illegal_balls_bowled="0" maidens_bowled="5" no_balls="0" non_strike="1" on_strike="0" order="1" overs_bowled="27" runs_conceded="84" total_balls_bowled="162" wickets_taken="3" wides="0" />
+      <Bowler id="9855" balls_bowled="2" bowler_average="26.0" bowler_strike_rate="70.5" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" dot_balls="112" illegal_balls_bowled="1" maidens_bowled="6" no_balls="1" non_strike="0" on_strike="1" order="2" overs_bowled="23" runs_conceded="52" total_balls_bowled="140" wickets_taken="2" wides="0" />
+      <Bowler id="9799" balls_bowled="0" bowler_average="88.0" bowler_strike_rate="147.0" bowler_uuid="50aputzsmqkppzbt860y581vg" dot_balls="105" illegal_balls_bowled="3" maidens_bowled="5" no_balls="3" non_strike="0" on_strike="0" order="3" overs_bowled="24" runs_conceded="88" total_balls_bowled="144" wickets_taken="1" wides="0" />
+      <Bowler id="4489" balls_bowled="0" bowler_average="31.5" bowler_strike_rate="61.0" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" dot_balls="87" illegal_balls_bowled="2" maidens_bowled="4" no_balls="1" non_strike="0" on_strike="0" order="4" overs_bowled="20" runs_conceded="63" total_balls_bowled="120" wickets_taken="2" wides="1" />
+      <Bowler id="16442" balls_bowled="5" bowler_average="59.0" bowler_strike_rate="89.0" bowler_uuid="36nkr1c6ot76opm9myyszani4" dot_balls="59" illegal_balls_bowled="0" maidens_bowled="2" no_balls="0" non_strike="0" on_strike="0" order="5" overs_bowled="14" runs_conceded="59" total_balls_bowled="89" wickets_taken="1" wides="0" />
+      <Bowler id="4541" balls_bowled="1" bowler_uuid="4z46e623qptbmvwf99pfvcz98" dot_balls="46" illegal_balls_bowled="0" maidens_bowled="0" no_balls="0" non_strike="0" on_strike="0" order="6" overs_bowled="10" runs_conceded="35" total_balls_bowled="61" wickets_taken="0" wides="0" />
+    </Bowlers>
+    <Extras byes="3" leg_byes="3" no_balls="5" penalties="0" total_extras="12" wides="1" />
+    <FallofWickets>
+      <FallofWicket order="1" over_ball="1.3" player_id="12690" player_uuid="975vlzpu3rlsepme2glegxg8s" runs="13" />
+      <FallofWicket order="2" over_ball="20.2" player_id="5342" player_uuid="4zb70wvdmdga1twyond5tzbzw" runs="74" />
+      <FallofWicket order="3" over_ball="33.1" player_id="11023" player_uuid="50o911izz4pbww5d4lhjwlu9o" runs="107" />
+      <FallofWicket order="4" over_ball="65.3" player_id="8229" player_uuid="94asxemad4e6r4eok0ptx36gs" runs="248" />
+      <FallofWicket order="5" over_ball="67.1" player_id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs="254" />
+      <FallofWicket order="6" over_ball="94.3" player_id="13733" player_uuid="3epfhbczdu7xzwpuqcqjlbgcc" runs="326" />
+      <FallofWicket order="7" over_ball="113.2" player_id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs="376" />
+      <FallofWicket order="8" over_ball="116.1" player_id="13807" player_uuid="a4hitpdklxn4w451ayll9h6kc" runs="385" />
+      <FallofWicket order="9" over_ball="118.4" player_id="6684" player_uuid="4zlws7ncp3g6e6o2yuzug4ha4" runs="387" />
+      <FallofWicket order="10" over_ball="119.2" player_id="8240" player_uuid="4zxgegdh7x9a324wd0wxeh5ks" runs="387" />
+    </FallofWickets>
+    <Total overs="119.2" runs_scored="387" wickets="10" />
+  </Innings>
+  <Innings id="3" batting_team_id="2" batting_team_uuid="1ewg51wknqsmljpbydgdldfsl" bowling_team_id="3" bowling_team_uuid="6d5yasbbur1fvrdmfb8zrosa3" declared="0" follow_on="0" forfeited="0" overnight_runs="192" overnight_wickets="10">
+    <Batters>
+      <Batter id="11170" balls_faced="49" batter_strike_rate="44.9" batter_uuid="prmqyf8ivxirmvxosps7mu0s" bowled_by="13733" bowled_by_uuid="3epfhbczdu7xzwpuqcqjlbgcc" caught_by="12690" caught_by_uuid="975vlzpu3rlsepme2glegxg8s" day="4" dismissal_id="3" fours_scored="3" how_out="Caught Yashasvi Jaiswal Bowled Nitish Kumar Reddy" minutes="82" non_strike="0" on_strike="0" order="1" runs_scored="22" sixes_scored="0" />
+      <Batter id="5511" balls_faced="12" batter_strike_rate="100.0" batter_uuid="4zcup0rai861j19oa0fmq137g" bowled_by="11100" bowled_by_uuid="50paeop1dwdb43mt8vwmeyfek" caught_by="6684" caught_by_uuid="4zlws7ncp3g6e6o2yuzug4ha4" day="4" dismissal_id="3" fours_scored="1" how_out="Caught Jasprit Bumrah Bowled Mohammed Siraj" minutes="34" non_strike="0" on_strike="0" order="2" runs_scored="12" sixes_scored="0" />
+      <Batter id="10696" balls_faced="17" batter_strike_rate="23.5" batter_uuid="50kaxja3fi8osxt4au2utwews" bowled_by="11100" bowled_by_uuid="50paeop1dwdb43mt8vwmeyfek" caught_by="0" caught_by_uuid="" day="4" dismissal_id="7" fours_scored="1" how_out="L.B.W. Mohammed Siraj" minutes="34" non_strike="0" on_strike="0" order="3" runs_scored="4" sixes_scored="0" />
+      <Batter id="4541" balls_faced="96" batter_strike_rate="41.7" batter_uuid="4z46e623qptbmvwf99pfvcz98" bowled_by="8240" bowled_by_uuid="4zxgegdh7x9a324wd0wxeh5ks" caught_by="0" caught_by_uuid="" day="4" dismissal_id="1" fours_scored="1" how_out="Bowled Washington Sundar" minutes="147" non_strike="0" on_strike="0" order="4" runs_scored="40" sixes_scored="0" />
+      <Batter id="9845" balls_faced="19" batter_strike_rate="121.1" batter_uuid="50b0kdo6gh782yht008y6o0vw" bowled_by="13807" bowled_by_uuid="a4hitpdklxn4w451ayll9h6kc" caught_by="0" caught_by_uuid="" day="4" dismissal_id="1" fours_scored="4" how_out="Bowled Akash Deep" minutes="33" non_strike="0" on_strike="0" order="5" runs_scored="23" sixes_scored="1" />
+      <Batter id="4489" balls_faced="96" batter_strike_rate="34.4" batter_uuid="dfj9tj9u20y4kms3kqrmkioho" bowled_by="8240" bowled_by_uuid="4zxgegdh7x9a324wd0wxeh5ks" caught_by="0" caught_by_uuid="" day="4" dismissal_id="1" fours_scored="3" how_out="Bowled Washington Sundar" minutes="148" non_strike="0" on_strike="0" order="6" runs_scored="33" sixes_scored="0" />
+      <Batter id="12146" balls_faced="14" batter_strike_rate="57.1" batter_uuid="50y4e7ogocwl3zejmibq3wwos" bowled_by="8240" bowled_by_uuid="4zxgegdh7x9a324wd0wxeh5ks" caught_by="0" caught_by_uuid="" day="4" dismissal_id="1" fours_scored="0" how_out="Bowled Washington Sundar" minutes="14" non_strike="0" on_strike="0" order="7" runs_scored="8" sixes_scored="0" />
+      <Batter id="4074" balls_faced="33" batter_strike_rate="30.3" batter_uuid="ejow5fczazlo1qqm97dz3wpks" bowled_by="6684" bowled_by_uuid="4zlws7ncp3g6e6o2yuzug4ha4" caught_by="0" caught_by_uuid="" day="4" dismissal_id="1" fours_scored="1" how_out="Bowled Jasprit Bumrah" minutes="49" non_strike="0" on_strike="0" order="8" runs_scored="10" sixes_scored="0" />
+      <Batter id="9799" balls_faced="4" batter_strike_rate="25.0" batter_uuid="50aputzsmqkppzbt860y581vg" bowled_by="6684" bowled_by_uuid="4zlws7ncp3g6e6o2yuzug4ha4" caught_by="0" caught_by_uuid="" day="4" dismissal_id="1" fours_scored="0" how_out="Bowled Jasprit Bumrah" minutes="5" non_strike="0" on_strike="0" order="9" runs_scored="1" sixes_scored="0" />
+      <Batter id="9855" balls_faced="25" batter_strike_rate="20.0" batter_uuid="1536j7r3i8gynncj0im8rmq2k" bowled_by="0" bowled_by_uuid="" caught_by="0" caught_by_uuid="" day="4" dismissal_id="0" fours_scored="1" how_out="Not Out" minutes="33" non_strike="1" on_strike="0" order="10" runs_scored="5" sixes_scored="0" />
+      <Batter id="16442" balls_faced="9" batter_strike_rate="22.2" batter_uuid="36nkr1c6ot76opm9myyszani4" bowled_by="8240" bowled_by_uuid="4zxgegdh7x9a324wd0wxeh5ks" caught_by="0" caught_by_uuid="" day="4" dismissal_id="1" fours_scored="0" how_out="Bowled Washington Sundar" minutes="21" non_strike="0" on_strike="0" order="11" runs_scored="2" sixes_scored="0" />
+    </Batters>
+    <Bowlers>
+      <Bowler id="6684" balls_bowled="0" bowler_average="19.0" bowler_strike_rate="48.0" bowler_uuid="4zlws7ncp3g6e6o2yuzug4ha4" dot_balls="78" illegal_balls_bowled="0" maidens_bowled="3" no_balls="0" non_strike="1" on_strike="0" order="1" overs_bowled="16" runs_conceded="38" total_balls_bowled="96" wickets_taken="2" wides="0" />
+      <Bowler id="11100" balls_bowled="0" bowler_average="15.5" bowler_strike_rate="39.0" bowler_uuid="50paeop1dwdb43mt8vwmeyfek" dot_balls="60" illegal_balls_bowled="0" maidens_bowled="2" no_balls="0" non_strike="0" on_strike="0" order="2" overs_bowled="13" runs_conceded="31" total_balls_bowled="78" wickets_taken="2" wides="0" />
+      <Bowler id="13733" balls_bowled="0" bowler_average="20.0" bowler_strike_rate="30.0" bowler_uuid="3epfhbczdu7xzwpuqcqjlbgcc" dot_balls="20" illegal_balls_bowled="0" maidens_bowled="1" no_balls="0" non_strike="0" on_strike="0" order="3" overs_bowled="5" runs_conceded="20" total_balls_bowled="30" wickets_taken="1" wides="0" />
+      <Bowler id="13807" balls_bowled="0" bowler_average="30.0" bowler_strike_rate="49.0" bowler_uuid="a4hitpdklxn4w451ayll9h6kc" dot_balls="36" illegal_balls_bowled="1" maidens_bowled="2" no_balls="1" non_strike="0" on_strike="0" order="4" overs_bowled="8" runs_conceded="30" total_balls_bowled="48" wickets_taken="1" wides="0" />
+      <Bowler id="3856" balls_bowled="0" bowler_uuid="4yvbag04dfkuoo5xlq920cdq4" dot_balls="30" illegal_balls_bowled="0" maidens_bowled="1" no_balls="0" non_strike="0" on_strike="0" order="5" overs_bowled="8" runs_conceded="20" total_balls_bowled="48" wickets_taken="0" wides="0" />
+      <Bowler id="8240" balls_bowled="1" bowler_average="5.5" bowler_strike_rate="18.2" bowler_uuid="4zxgegdh7x9a324wd0wxeh5ks" dot_balls="58" illegal_balls_bowled="0" maidens_bowled="2" no_balls="0" non_strike="0" on_strike="1" order="6" overs_bowled="12" runs_conceded="22" total_balls_bowled="73" wickets_taken="4" wides="0" />
+    </Bowlers>
+    <Extras byes="25" leg_byes="6" no_balls="1" penalties="0" total_extras="32" wides="0" />
+    <FallofWickets>
+      <FallofWicket order="1" over_ball="5.5" player_id="5511" player_uuid="4zcup0rai861j19oa0fmq137g" runs="22" />
+      <FallofWicket order="2" over_ball="11.6" player_id="10696" player_uuid="50kaxja3fi8osxt4au2utwews" runs="42" />
+      <FallofWicket order="3" over_ball="14.4" player_id="11170" player_uuid="prmqyf8ivxirmvxosps7mu0s" runs="50" />
+      <FallofWicket order="4" over_ball="21.3" player_id="9845" player_uuid="50b0kdo6gh782yht008y6o0vw" runs="87" />
+      <FallofWicket order="5" over_ball="42.4" player_id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs="154" />
+      <FallofWicket order="6" over_ball="46.2" player_id="12146" player_uuid="50y4e7ogocwl3zejmibq3wwos" runs="164" />
+      <FallofWicket order="7" over_ball="54.3" player_id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs="181" />
+      <FallofWicket order="8" over_ball="55.1" player_id="9799" player_uuid="50aputzsmqkppzbt860y581vg" runs="182" />
+      <FallofWicket order="9" over_ball="57.3" player_id="4074" player_uuid="ejow5fczazlo1qqm97dz3wpks" runs="185" />
+      <FallofWicket order="10" over_ball="62.1" player_id="16442" player_uuid="36nkr1c6ot76opm9myyszani4" runs="192" />
+    </FallofWickets>
+    <Total overs="62.1" runs_scored="192" wickets="10" />
+  </Innings>
+  <Innings id="4" batting_team_id="3" batting_team_uuid="6d5yasbbur1fvrdmfb8zrosa3" bowling_team_id="2" bowling_team_uuid="1ewg51wknqsmljpbydgdldfsl" declared="0" follow_on="0" forfeited="0" overnight_runs="0" overnight_wickets="0">
+    <Batters>
+      <Batter id="12690" balls_faced="7" batter_strike_rate="0.0" batter_uuid="975vlzpu3rlsepme2glegxg8s" bowled_by="9855" bowled_by_uuid="1536j7r3i8gynncj0im8rmq2k" caught_by="12146" caught_by_uuid="50y4e7ogocwl3zejmibq3wwos" day="4" dismissal_id="3" fours_scored="0" how_out="Caught Jamie Smith Bowled Jofra Archer" minutes="9" non_strike="0" on_strike="0" order="1" runs_scored="0" sixes_scored="0" />
+      <Batter id="6698" balls_faced="58" batter_strike_rate="67.2" batter_uuid="4zm0sngkdf418oix17s8tvbek" bowled_by="4489" bowled_by_uuid="dfj9tj9u20y4kms3kqrmkioho" caught_by="0" caught_by_uuid="" day="5" dismissal_id="7" fours_scored="6" how_out="L.B.W. Ben Stokes" minutes="126" non_strike="0" on_strike="0" order="2" runs_scored="39" sixes_scored="0" />
+      <Batter id="5342" balls_faced="33" batter_strike_rate="42.4" batter_uuid="4zb70wvdmdga1twyond5tzbzw" bowled_by="9799" bowled_by_uuid="50aputzsmqkppzbt860y581vg" caught_by="0" caught_by_uuid="" day="4" dismissal_id="7" fours_scored="1" how_out="L.B.W. Brydon Carse" minutes="53" non_strike="0" on_strike="0" order="3" runs_scored="14" sixes_scored="0" />
+      <Batter id="11023" balls_faced="9" batter_strike_rate="66.7" batter_uuid="50o911izz4pbww5d4lhjwlu9o" bowled_by="9799" bowled_by_uuid="50aputzsmqkppzbt860y581vg" caught_by="0" caught_by_uuid="" day="4" dismissal_id="7" fours_scored="1" how_out="L.B.W. Brydon Carse" minutes="15" non_strike="0" on_strike="0" order="4" runs_scored="6" sixes_scored="0" />
+      <Batter id="13807" balls_faced="11" batter_strike_rate="9.1" batter_uuid="a4hitpdklxn4w451ayll9h6kc" bowled_by="4489" bowled_by_uuid="dfj9tj9u20y4kms3kqrmkioho" caught_by="0" caught_by_uuid="" day="4" dismissal_id="1" fours_scored="0" how_out="Bowled Ben Stokes" minutes="17" non_strike="0" on_strike="0" order="5" runs_scored="1" sixes_scored="0" />
+      <Batter id="8229" balls_faced="12" batter_strike_rate="75.0" batter_uuid="94asxemad4e6r4eok0ptx36gs" bowled_by="9855" bowled_by_uuid="1536j7r3i8gynncj0im8rmq2k" caught_by="0" caught_by_uuid="" day="5" dismissal_id="1" fours_scored="2" how_out="Bowled Jofra Archer" minutes="18" non_strike="0" on_strike="0" order="6" runs_scored="9" sixes_scored="0" />
+      <Batter id="3856" balls_faced="181" batter_strike_rate="33.7" batter_uuid="4yvbag04dfkuoo5xlq920cdq4" bowled_by="0" bowled_by_uuid="" caught_by="0" caught_by_uuid="" day="5" dismissal_id="0" fours_scored="4" how_out="Not Out" minutes="276" non_strike="1" on_strike="0" order="7" runs_scored="61" sixes_scored="1" />
+      <Batter id="8240" balls_faced="4" batter_strike_rate="0.0" batter_uuid="4zxgegdh7x9a324wd0wxeh5ks" bowled_by="9855" bowled_by_uuid="1536j7r3i8gynncj0im8rmq2k" caught_by="9855" caught_by_uuid="1536j7r3i8gynncj0im8rmq2k" day="5" dismissal_id="2" fours_scored="0" how_out="Caught and Bowled Jofra Archer" minutes="7" non_strike="0" on_strike="0" order="8" runs_scored="0" sixes_scored="0" />
+      <Batter id="13733" balls_faced="53" batter_strike_rate="24.5" batter_uuid="3epfhbczdu7xzwpuqcqjlbgcc" bowled_by="4074" bowled_by_uuid="ejow5fczazlo1qqm97dz3wpks" caught_by="12146" caught_by_uuid="50y4e7ogocwl3zejmibq3wwos" day="5" dismissal_id="3" fours_scored="1" how_out="Caught Jamie Smith Bowled Chris Woakes" minutes="77" non_strike="0" on_strike="0" order="9" runs_scored="13" sixes_scored="0" />
+      <Batter id="6684" balls_faced="54" batter_strike_rate="9.3" batter_uuid="4zlws7ncp3g6e6o2yuzug4ha4" bowled_by="4489" bowled_by_uuid="dfj9tj9u20y4kms3kqrmkioho" caught_by="0" caught_by_uuid="" day="5" dismissal_id="14" fours_scored="1" how_out="Caught (Sub) Bowled Ben Stokes" minutes="109" non_strike="0" on_strike="0" order="10" runs_scored="5" sixes_scored="0" />
+      <Batter id="11100" balls_faced="30" batter_strike_rate="13.3" batter_uuid="50paeop1dwdb43mt8vwmeyfek" bowled_by="16442" bowled_by_uuid="36nkr1c6ot76opm9myyszani4" caught_by="0" caught_by_uuid="" day="5" dismissal_id="1" fours_scored="0" how_out="Bowled Shoaib Bashir" minutes="68" non_strike="0" on_strike="0" order="11" runs_scored="4" sixes_scored="0" />
+    </Batters>
+    <Bowlers>
+      <Bowler id="4074" balls_bowled="0" bowler_average="21.0" bowler_strike_rate="72.0" bowler_uuid="ejow5fczazlo1qqm97dz3wpks" dot_balls="63" illegal_balls_bowled="0" maidens_bowled="5" no_balls="0" non_strike="0" on_strike="0" order="1" overs_bowled="12" runs_conceded="21" total_balls_bowled="72" wickets_taken="1" wides="0" />
+      <Bowler id="9855" balls_bowled="0" bowler_average="18.3" bowler_strike_rate="32.0" bowler_uuid="1536j7r3i8gynncj0im8rmq2k" dot_balls="72" illegal_balls_bowled="0" maidens_bowled="1" no_balls="0" non_strike="1" on_strike="0" order="2" overs_bowled="16" runs_conceded="55" total_balls_bowled="96" wickets_taken="3" wides="1" />
+      <Bowler id="4489" balls_bowled="0" bowler_average="16.0" bowler_strike_rate="48.7" bowler_uuid="dfj9tj9u20y4kms3kqrmkioho" dot_balls="116" illegal_balls_bowled="2" maidens_bowled="4" no_balls="2" non_strike="0" on_strike="0" order="3" overs_bowled="24" runs_conceded="48" total_balls_bowled="144" wickets_taken="3" wides="0" />
+      <Bowler id="9799" balls_bowled="0" bowler_average="15.0" bowler_strike_rate="49.0" bowler_uuid="50aputzsmqkppzbt860y581vg" dot_balls="76" illegal_balls_bowled="2" maidens_bowled="2" no_balls="1" non_strike="0" on_strike="0" order="4" overs_bowled="16" runs_conceded="30" total_balls_bowled="96" wickets_taken="2" wides="1" />
+      <Bowler id="4541" balls_bowled="0" bowler_uuid="4z46e623qptbmvwf99pfvcz98" dot_balls="5" illegal_balls_bowled="0" maidens_bowled="0" no_balls="0" non_strike="0" on_strike="0" order="5" overs_bowled="1" runs_conceded="1" total_balls_bowled="6" wickets_taken="0" wides="0" />
+      <Bowler id="16442" balls_bowled="5" bowler_average="6.0" bowler_strike_rate="35.0" bowler_uuid="36nkr1c6ot76opm9myyszani4" dot_balls="29" illegal_balls_bowled="0" maidens_bowled="1" no_balls="0" non_strike="0" on_strike="1" order="6" overs_bowled="5" runs_conceded="6" total_balls_bowled="35" wickets_taken="1" wides="0" />
+    </Bowlers>
+    <Extras byes="0" leg_byes="9" no_balls="3" penalties="0" total_extras="18" wides="6" />
+    <FallofWickets>
+      <FallofWicket order="1" over_ball="1.4" player_id="12690" player_uuid="975vlzpu3rlsepme2glegxg8s" runs="5" />
+      <FallofWicket order="2" over_ball="12.3" player_id="5342" player_uuid="4zb70wvdmdga1twyond5tzbzw" runs="41" />
+      <FallofWicket order="3" over_ball="14.6" player_id="11023" player_uuid="50o911izz4pbww5d4lhjwlu9o" runs="53" />
+      <FallofWicket order="4" over_ball="17.4" player_id="13807" player_uuid="a4hitpdklxn4w451ayll9h6kc" runs="58" />
+      <FallofWicket order="5" over_ball="20.5" player_id="8229" player_uuid="94asxemad4e6r4eok0ptx36gs" runs="71" />
+      <FallofWicket order="6" over_ball="23.5" player_id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs="81" />
+      <FallofWicket order="7" over_ball="24.4" player_id="8240" player_uuid="4zxgegdh7x9a324wd0wxeh5ks" runs="82" />
+      <FallofWicket order="8" over_ball="39.3" player_id="13733" player_uuid="3epfhbczdu7xzwpuqcqjlbgcc" runs="112" />
+      <FallofWicket order="9" over_ball="61.3" player_id="6684" player_uuid="4zlws7ncp3g6e6o2yuzug4ha4" runs="147" />
+      <FallofWicket order="10" over_ball="74.5" player_id="11100" player_uuid="50paeop1dwdb43mt8vwmeyfek" runs="170" />
+    </FallofWickets>
+    <Total overs="74.5" runs_scored="170" wickets="10" />
+  </Innings>
+  <MatchDetail away_batting_bonus="0" away_bowling_bonus="0" away_team="India" away_team_id="3" away_team_short_name="IND" away_team_uuid="6d5yasbbur1fvrdmfb8zrosa3" collection_detail_id="1" competition_id="3542" competition_name="England v India Test Series 2025" competition_uuid="69mjesvz2zbmugcs7mk7ky73w" description="3rd Test" dl="0" game_date="2025-07-10" game_date_time="2025-07-10T11:00:00+01:00" game_end_date="2025-07-14T15:52:37+01:00" game_id="62425" game_time="11:00:00" game_type_id="1" game_uuid="a2wzlljrb46ngx62n1f14156k" gmt_offset="60" home_batting_bonus="0" home_bowling_bonus="0" home_team="England" home_team_id="2" home_team_short_name="ENG" home_team_uuid="1ewg51wknqsmljpbydgdldfsl" league_id="7" league_name="ICC World Test Championship 2025-27" league_uuid="6gmckxywdya3776n3wxbibv66" match_day="5" min_overs_remaining="0.0" neutral_venue="0" number_days="5" player_of_the_match_1="4489" player_of_the_match_name_1="Ben Stokes" player_of_the_match_uuid_1="dfj9tj9u20y4kms3kqrmkioho" result="England win by 22 runs" result_id="1" series_status="England lead the 5 Test series 2-1" status_id="10" toss="England won the toss and elected to bat." toss_decision="Bat" toss_team_id="2" toss_team_uuid="1ewg51wknqsmljpbydgdldfsl" total_overs="" tour_id="960" tour_name="India in England 2025" tour_uuid="2vxdunzxv1eked920g6y85ksc" venue_id="40" venue_latitude="51.530011" venue_longitude="-0.172178" venue_uuid="dijtxpuik3w8nec2yyzeo6qb1" win_margin="22" win_type_id="1">
+    <Officials official_1_first_name="Paul" official_1_id="77" official_1_initials="P R" official_1_last_name="Reiffel" official_1_umpire_type="On Field" official_1_uuid="4xqz55bjgo8ahfy33f2gpr4ho" official_2_first_name="Sharfuddoula" official_2_id="336" official_2_initials="S I S" official_2_last_name="Saikat" official_2_umpire_type="On Field" official_2_uuid="4xtn1nr0zas35bqh062oshmkc" official_3_first_name="Ahsan" official_3_id="179" official_3_initials="A" official_3_last_name="Raza" official_3_umpire_type="Video" official_3_uuid="4xrxf0jzu9hp6ovuet2w12bng" official_4_first_name="Graham" official_4_id="319" official_4_initials="G D" official_4_last_name="Lloyd" official_4_umpire_type="Reserve" official_4_uuid="4xth0ba6dbc2uya53rcitjibg" official_5_first_name="Richard" official_5_id="923" official_5_initials="R B" official_5_last_name="Richardson" official_5_umpire_type="Match Referee" official_5_uuid="4xyhi0bzyfp9era1ha5gj1lz0" official_6_first_name="" official_6_id="" official_6_initials="" official_6_last_name="" official_6_umpire_type="" official_6_uuid="" official_7_first_name="" official_7_id="" official_7_initials="" official_7_last_name="" official_7_umpire_type="" official_7_uuid="" />
+    <Venue venue_city="London" venue_country="England" venue_id="40" venue_name="Lord's" venue_uuid="dijtxpuik3w8nec2yyzeo6qb1" />
+  </MatchDetail>
+  <PlayerDetail>
+    <Team home_or_away="home" team_id="2" team_name="England" team_short_name="ENG" team_uuid="1ewg51wknqsmljpbydgdldfsl">
+      <Player id="11170" game_player_id="2543919" game_player_uuid="4kjxzklkhcgoed7kllni92t1q" order="1" player_first_name="Zak" player_initials="Z." player_last_name="Crawley" player_middle_name="" player_name="Zak Crawley" player_uuid="prmqyf8ivxirmvxosps7mu0s" />
+      <Player id="5511" game_player_id="2543921" game_player_uuid="4kk0pmd9oe9mm8ji0bg6lqsni" order="2" player_first_name="Ben" player_initials="B.M." player_last_name="Duckett" player_middle_name="Matthew" player_name="Ben Duckett" player_uuid="4zcup0rai861j19oa0fmq137g" />
+      <Player id="10696" game_player_id="2543923" game_player_uuid="4kk2o9inevp0exrhxcjni3p8u" order="3" player_first_name="Oliver" player_initials="O.J.D." player_last_name="Pope" player_middle_name="John Douglas" player_name="Ollie Pope" player_uuid="50kaxja3fi8osxt4au2utwews" />
+      <Player id="4541" game_player_id="2543925" game_player_uuid="4kk4l7n6igno8kh3hj1kiut1q" order="4" player_first_name="Joseph" player_initials="J.E." player_last_name="Root" player_middle_name="Edward" player_name="Joe Root" player_uuid="4z46e623qptbmvwf99pfvcz98" />
+      <Player id="9845" game_player_id="2543927" game_player_uuid="4kk6hhnq3fh8lg4yqc6xzfxxq" order="5" player_first_name="Harry" player_initials="H.C." player_last_name="Brook" player_middle_name="Cherrington" player_name="Harry Brook" player_uuid="50b0kdo6gh782yht008y6o0vw" />
+      <Player id="4489" captain="-1" game_player_id="2543929" game_player_uuid="4kk8bw8z8nqtgh2yr8sj6scjy" order="6" player_first_name="Benjamin" player_initials="B.A." player_last_name="Stokes" player_middle_name="Andrew" player_name="Ben Stokes" player_uuid="dfj9tj9u20y4kms3kqrmkioho" />
+      <Player id="12146" game_player_id="2543931" game_player_uuid="4kk9l1p3n1kky8p1jc6yugnf2" keeper="-1" order="7" player_first_name="Jamie" player_initials="J.L." player_last_name="Smith" player_middle_name="Luke" player_name="Jamie Smith" player_uuid="50y4e7ogocwl3zejmibq3wwos" />
+      <Player id="4074" game_player_id="2543933" game_player_uuid="4kkatwou8bum3bu4dieotgp72" order="8" player_first_name="Christopher" player_initials="C.R." player_last_name="Woakes" player_middle_name="Roger" player_name="Chris Woakes" player_uuid="ejow5fczazlo1qqm97dz3wpks" />
+      <Player id="9799" game_player_id="2543935" game_player_uuid="4kkc1yg8nxijcmyp09poizmvi" order="9" player_first_name="Brydon" player_initials="B.A." player_last_name="Carse" player_middle_name="Alexander" player_name="Brydon Carse" player_uuid="50aputzsmqkppzbt860y581vg" />
+      <Player id="9855" game_player_id="2543937" game_player_uuid="4kkdbl6jq66pr4c4x0dqt31qm" order="10" player_first_name="Jofra" player_initials="J.C." player_last_name="Archer" player_middle_name="Chioke" player_name="Jofra Archer" player_uuid="1536j7r3i8gynncj0im8rmq2k" />
+      <Player id="16442" game_player_id="2543939" game_player_uuid="4kkeowuax8jhhoa9t1kb368pa" order="11" player_first_name="Shoaib" player_initials="S." player_last_name="Bashir" player_middle_name="" player_name="Shoaib Bashir" player_uuid="36nkr1c6ot76opm9myyszani4" />
+    </Team>
+    <Team home_or_away="away" team_id="3" team_name="India" team_short_name="IND" team_uuid="6d5yasbbur1fvrdmfb8zrosa3">
+      <Player id="6698" game_player_id="2543941" game_player_uuid="4kkhar4a5u76d01g4t6t53jwu" order="1" player_first_name="Kannanur" player_initials="K.L." player_last_name="Rahul" player_middle_name="Lokesh" player_name="Lokesh Rahul" player_uuid="4zm0sngkdf418oix17s8tvbek" />
+      <Player id="12690" game_player_id="2543943" game_player_uuid="4kkiwthy8o0g92us3oahdo51q" order="2" player_first_name="Yashasvi" player_initials="Y.B.K." player_last_name="Jaiswal" player_middle_name="Bhupendra Kumar" player_name="Yashasvi Jaiswal" player_uuid="975vlzpu3rlsepme2glegxg8s" />
+      <Player id="5342" game_player_id="2543945" game_player_uuid="4kkk6isfmfx4v2plyfqn0f4i6" order="3" player_first_name="Karun" player_initials="K.K." player_last_name="Nair" player_middle_name="Kaladharan" player_name="Karun Nair" player_uuid="4zb70wvdmdga1twyond5tzbzw" />
+      <Player id="11023" captain="-1" game_player_id="2543947" game_player_uuid="4kklg4vp3ss6pogpdo7ogcn7y" order="4" player_first_name="Shubman" player_initials="S." player_last_name="Gill" player_middle_name="" player_name="Shubman Gill" player_uuid="50o911izz4pbww5d4lhjwlu9o" />
+      <Player id="8229" game_player_id="2543949" game_player_uuid="4kkmpgq9b0p7q8a90tkchnvke" keeper="-1" order="5" player_first_name="Rishabh" player_initials="R.R." player_last_name="Pant" player_middle_name="Rajendra" player_name="Rishabh Pant" player_uuid="94asxemad4e6r4eok0ptx36gs" />
+      <Player id="13733" game_player_id="2543951" game_player_uuid="4kko1407g2ee1lcc1icdqb5vy" order="6" player_first_name="Kaki" player_initials="K.N.K." player_last_name="Reddy" player_middle_name="Nitish Kumar" player_name="Nitish Kumar Reddy" player_uuid="3epfhbczdu7xzwpuqcqjlbgcc" />
+      <Player id="3856" game_player_id="2543953" game_player_uuid="4kkpa3wm5gjq32wqlw1y4ke4u" order="7" player_first_name="Ravindrasinh" player_initials="R.A." player_last_name="Jadeja" player_middle_name="Anirudhsinh" player_name="Ravindra Jadeja" player_uuid="4yvbag04dfkuoo5xlq920cdq4" />
+      <Player id="8240" game_player_id="2543955" game_player_uuid="4kkq7ak756vdypre4u5pw2pam" order="8" player_first_name="Washington" player_initials="W." player_last_name="Sundar" player_middle_name="" player_name="Washington Sundar" player_uuid="4zxgegdh7x9a324wd0wxeh5ks" />
+      <Player id="13807" game_player_id="2543957" game_player_uuid="4kkr37zch5cs5m2vaqh6g0kni" order="9" player_first_name="Akash" player_initials="A." player_last_name="Deep" player_middle_name="" player_name="Akash Deep" player_uuid="a4hitpdklxn4w451ayll9h6kc" />
+      <Player id="6684" game_player_id="2543959" game_player_uuid="4kks0f9z1rhkl4jvb6rz1orym" order="10" player_first_name="Jasprit" player_initials="J.J." player_last_name="Bumrah" player_middle_name="Jasbirsingh" player_name="Jasprit Bumrah" player_uuid="4zlws7ncp3g6e6o2yuzug4ha4" />
+      <Player id="11100" game_player_id="2543961" game_player_uuid="4kksvz9775zb6ku29gzy06w7i" order="11" player_first_name="Mohammed" player_initials="M." player_last_name="Siraj" player_middle_name="" player_name="Mohammed Siraj" player_uuid="50paeop1dwdb43mt8vwmeyfek" />
+    </Team>
+  </PlayerDetail>
+  <SessionUpdates>
+    <session day="1" innings="1" number="1" overs="0.0" runs="0" status_id="1" time="10:00:16" timestamp_UTC="20250710T100016+0000" wickets="0">
+      <player id="11170" player_uuid="prmqyf8ivxirmvxosps7mu0s" runs_scored="0" />
+      <player id="5511" player_uuid="4zcup0rai861j19oa0fmq137g" runs_scored="0" />
+    </session>
+    <session day="1" innings="1" number="1" overs="13.0" runs="39" status_id="15" time="11:02:19" timestamp_UTC="20250710T110219+0000" wickets="0">
+      <player id="5511" player_uuid="4zcup0rai861j19oa0fmq137g" runs_scored="19" />
+      <player id="11170" player_uuid="prmqyf8ivxirmvxosps7mu0s" runs_scored="18" />
+    </session>
+    <session day="1" innings="1" number="1" overs="13.0" runs="39" status_id="1" time="11:05:13" timestamp_UTC="20250710T110513+0000" wickets="0">
+      <player id="5511" player_uuid="4zcup0rai861j19oa0fmq137g" runs_scored="19" />
+      <player id="11170" player_uuid="prmqyf8ivxirmvxosps7mu0s" runs_scored="18" />
+    </session>
+    <session day="1" innings="1" number="1" overs="25.0" runs="83" status_id="3" time="12:03:35" timestamp_UTC="20250710T120335+0000" wickets="2">
+      <player id="10696" player_uuid="50kaxja3fi8osxt4au2utwews" runs_scored="12" />
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="24" />
+    </session>
+    <session day="1" innings="1" number="2" overs="25.0" runs="83" status_id="1" time="12:42:29" timestamp_UTC="20250710T124229+0000" wickets="2">
+      <player id="10696" player_uuid="50kaxja3fi8osxt4au2utwews" runs_scored="12" />
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="24" />
+    </session>
+    <session day="1" innings="1" number="2" overs="37.0" runs="109" status_id="15" time="13:42:56" timestamp_UTC="20250710T134256+0000" wickets="2">
+      <player id="10696" player_uuid="50kaxja3fi8osxt4au2utwews" runs_scored="21" />
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="34" />
+    </session>
+    <session day="1" innings="1" number="2" overs="37.0" runs="109" status_id="1" time="13:46:22" timestamp_UTC="20250710T134622+0000" wickets="2">
+      <player id="10696" player_uuid="50kaxja3fi8osxt4au2utwews" runs_scored="21" />
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="34" />
+    </session>
+    <session day="1" innings="1" number="2" overs="49.0" runs="153" status_id="2" time="14:42:53" timestamp_UTC="20250710T144253+0000" wickets="2">
+      <player id="10696" player_uuid="50kaxja3fi8osxt4au2utwews" runs_scored="44" />
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="54" />
+    </session>
+    <session day="1" innings="1" number="3" overs="49.0" runs="153" status_id="1" time="15:03:19" timestamp_UTC="20250710T150319+0000" wickets="2">
+      <player id="10696" player_uuid="50kaxja3fi8osxt4au2utwews" runs_scored="44" />
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="54" />
+    </session>
+    <session day="1" innings="1" number="3" overs="67.0" runs="207" status_id="15" time="16:19:16" timestamp_UTC="20250710T161916+0000" wickets="4">
+      <player id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs_scored="23" />
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="74" />
+    </session>
+    <session day="1" innings="1" number="3" overs="67.0" runs="207" status_id="1" time="16:23:01" timestamp_UTC="20250710T162301+0000" wickets="4">
+      <player id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs_scored="23" />
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="74" />
+    </session>
+    <session day="1" innings="1" number="3" overs="83.0" runs="251" status_id="5" time="17:32:04" timestamp_UTC="20250710T173204+0000" wickets="4">
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="99" />
+      <player id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs_scored="39" />
+    </session>
+    <session day="2" innings="1" number="1" overs="83.0" runs="251" status_id="1" time="10:01:32" timestamp_UTC="20250711T100132+0000" wickets="4">
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="99" />
+      <player id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs_scored="39" />
+    </session>
+    <session day="2" innings="1" number="1" overs="94.0" runs="307" status_id="15" time="11:05:16" timestamp_UTC="20250711T110516+0000" wickets="7">
+      <player id="12146" player_uuid="50y4e7ogocwl3zejmibq3wwos" runs_scored="33" />
+      <player id="9799" player_uuid="50aputzsmqkppzbt860y581vg" runs_scored="11" />
+    </session>
+    <session day="2" innings="1" number="1" overs="94.0" runs="307" status_id="1" time="11:10:57" timestamp_UTC="20250711T111057+0000" wickets="7">
+      <player id="12146" player_uuid="50y4e7ogocwl3zejmibq3wwos" runs_scored="33" />
+      <player id="9799" player_uuid="50aputzsmqkppzbt860y581vg" runs_scored="11" />
+    </session>
+    <session day="2" innings="1" number="1" overs="105.0" runs="353" status_id="3" time="12:01:36" timestamp_UTC="20250711T120136+0000" wickets="7">
+      <player id="9799" player_uuid="50aputzsmqkppzbt860y581vg" runs_scored="33" />
+      <player id="12146" player_uuid="50y4e7ogocwl3zejmibq3wwos" runs_scored="51" />
+    </session>
+    <session day="2" innings="1" number="2" overs="105.0" runs="353" status_id="1" time="12:40:56" timestamp_UTC="20250711T124056+0000" wickets="7">
+      <player id="9799" player_uuid="50aputzsmqkppzbt860y581vg" runs_scored="33" />
+      <player id="12146" player_uuid="50y4e7ogocwl3zejmibq3wwos" runs_scored="51" />
+    </session>
+    <session day="2" innings="1" number="2" overs="112.3" runs="387" status_id="4" time="13:25:59" timestamp_UTC="20250711T132559+0000" wickets="10">
+      <player id="16442" player_uuid="36nkr1c6ot76opm9myyszani4" runs_scored="1" />
+    </session>
+    <session day="2" innings="2" number="2" overs="0.0" runs="0" status_id="1" time="13:35:58" timestamp_UTC="20250711T133558+0000" wickets="0">
+      <player id="12690" player_uuid="975vlzpu3rlsepme2glegxg8s" runs_scored="0" />
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="0" />
+    </session>
+    <session day="2" innings="2" number="2" overs="14.0" runs="44" status_id="2" time="14:41:52" timestamp_UTC="20250711T144152+0000" wickets="1">
+      <player id="5342" player_uuid="4zb70wvdmdga1twyond5tzbzw" runs_scored="18" />
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="13" />
+    </session>
+    <session day="2" innings="2" number="3" overs="14.0" runs="44" status_id="1" time="15:02:06" timestamp_UTC="20250711T150206+0000" wickets="1">
+      <player id="5342" player_uuid="4zb70wvdmdga1twyond5tzbzw" runs_scored="18" />
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="13" />
+    </session>
+    <session day="2" innings="2" number="3" overs="28.0" runs="98" status_id="15" time="16:16:55" timestamp_UTC="20250711T161655+0000" wickets="2">
+      <player id="11023" player_uuid="50o911izz4pbww5d4lhjwlu9o" runs_scored="11" />
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="34" />
+    </session>
+    <session day="2" innings="2" number="3" overs="28.0" runs="98" status_id="1" time="16:20:09" timestamp_UTC="20250711T162009+0000" wickets="2">
+      <player id="11023" player_uuid="50o911izz4pbww5d4lhjwlu9o" runs_scored="11" />
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="34" />
+    </session>
+    <session day="2" innings="2" number="3" overs="43.0" runs="145" status_id="5" time="17:32:16" timestamp_UTC="20250711T173216+0000" wickets="3">
+      <player id="8229" player_uuid="94asxemad4e6r4eok0ptx36gs" runs_scored="19" />
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="53" />
+    </session>
+    <session day="3" innings="2" number="1" overs="43.0" runs="145" status_id="1" time="10:00:06" timestamp_UTC="20250712T100006+0000" wickets="3">
+      <player id="8229" player_uuid="94asxemad4e6r4eok0ptx36gs" runs_scored="19" />
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="53" />
+    </session>
+    <session day="3" innings="2" number="1" overs="56.0" runs="197" status_id="15" time="11:04:31" timestamp_UTC="20250712T110431+0000" wickets="3">
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="76" />
+      <player id="8229" player_uuid="94asxemad4e6r4eok0ptx36gs" runs_scored="46" />
+    </session>
+    <session day="3" innings="2" number="1" overs="56.0" runs="197" status_id="1" time="11:10:03" timestamp_UTC="20250712T111003+0000" wickets="3">
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="76" />
+      <player id="8229" player_uuid="94asxemad4e6r4eok0ptx36gs" runs_scored="46" />
+    </session>
+    <session day="3" innings="2" number="1" overs="65.3" runs="248" status_id="3" time="12:00:53" timestamp_UTC="20250712T120053+0000" wickets="4">
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="98" />
+      <player id="8229" player_uuid="94asxemad4e6r4eok0ptx36gs" runs_scored="74" />
+    </session>
+    <session day="3" innings="2" number="2" overs="65.3" runs="248" status_id="1" time="12:40:50" timestamp_UTC="20250712T124050+0000" wickets="4">
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="98" />
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="0" />
+    </session>
+    <session day="3" innings="2" number="2" overs="80.0" runs="291" status_id="15" time="13:42:08" timestamp_UTC="20250712T134208+0000" wickets="5">
+      <player id="13733" player_uuid="3epfhbczdu7xzwpuqcqjlbgcc" runs_scored="14" />
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="26" />
+    </session>
+    <session day="3" innings="2" number="2" overs="80.0" runs="291" status_id="1" time="13:45:43" timestamp_UTC="20250712T134543+0000" wickets="5">
+      <player id="13733" player_uuid="3epfhbczdu7xzwpuqcqjlbgcc" runs_scored="14" />
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="26" />
+    </session>
+    <session day="3" innings="2" number="2" overs="91.0" runs="316" status_id="2" time="14:43:42" timestamp_UTC="20250712T144342+0000" wickets="5">
+      <player id="13733" player_uuid="3epfhbczdu7xzwpuqcqjlbgcc" runs_scored="25" />
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="40" />
+    </session>
+    <session day="3" innings="2" number="3" overs="91.0" runs="316" status_id="1" time="15:03:00" timestamp_UTC="20250712T150300+0000" wickets="5">
+      <player id="13733" player_uuid="3epfhbczdu7xzwpuqcqjlbgcc" runs_scored="25" />
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="40" />
+    </session>
+    <session day="3" innings="2" number="3" overs="110.0" runs="374" status_id="15" time="16:18:39" timestamp_UTC="20250712T161839+0000" wickets="6">
+      <player id="8240" player_uuid="4zxgegdh7x9a324wd0wxeh5ks" runs_scored="19" />
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="72" />
+    </session>
+    <session day="3" innings="2" number="3" overs="110.0" runs="374" status_id="1" time="16:23:14" timestamp_UTC="20250712T162314+0000" wickets="6">
+      <player id="8240" player_uuid="4zxgegdh7x9a324wd0wxeh5ks" runs_scored="19" />
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="72" />
+    </session>
+    <session day="3" innings="2" number="3" overs="119.2" runs="387" status_id="4" time="17:15:33" timestamp_UTC="20250712T171533+0000" wickets="10">
+      <player id="11100" player_uuid="50paeop1dwdb43mt8vwmeyfek" runs_scored="0" />
+    </session>
+    <session day="3" innings="3" number="3" overs="0.0" runs="0" status_id="1" time="17:25:48" timestamp_UTC="20250712T172548+0000" wickets="0">
+      <player id="11170" player_uuid="prmqyf8ivxirmvxosps7mu0s" runs_scored="0" />
+      <player id="5511" player_uuid="4zcup0rai861j19oa0fmq137g" runs_scored="0" />
+    </session>
+    <session day="3" innings="3" number="3" overs="1.0" runs="2" status_id="5" time="17:32:40" timestamp_UTC="20250712T173240+0000" wickets="0">
+      <player id="5511" player_uuid="4zcup0rai861j19oa0fmq137g" runs_scored="0" />
+      <player id="11170" player_uuid="prmqyf8ivxirmvxosps7mu0s" runs_scored="2" />
+    </session>
+    <session day="4" innings="3" number="1" overs="1.0" runs="2" status_id="1" time="09:59:28" timestamp_UTC="20250713T095928+0000" wickets="0">
+      <player id="5511" player_uuid="4zcup0rai861j19oa0fmq137g" runs_scored="0" />
+      <player id="11170" player_uuid="prmqyf8ivxirmvxosps7mu0s" runs_scored="2" />
+    </session>
+    <session day="4" innings="3" number="1" overs="12.0" runs="42" status_id="15" time="11:00:02" timestamp_UTC="20250713T110002+0000" wickets="2">
+      <player id="11170" player_uuid="prmqyf8ivxirmvxosps7mu0s" runs_scored="17" />
+      <player id="10696" player_uuid="50kaxja3fi8osxt4au2utwews" runs_scored="4" />
+    </session>
+    <session day="4" innings="3" number="1" overs="12.0" runs="42" status_id="1" time="11:02:35" timestamp_UTC="20250713T110235+0000" wickets="2">
+      <player id="11170" player_uuid="prmqyf8ivxirmvxosps7mu0s" runs_scored="17" />
+      <player id="10696" player_uuid="50kaxja3fi8osxt4au2utwews" runs_scored="4" />
+    </session>
+    <session day="4" innings="3" number="1" overs="25.0" runs="98" status_id="3" time="12:04:20" timestamp_UTC="20250713T120420+0000" wickets="4">
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="17" />
+      <player id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs_scored="2" />
+    </session>
+    <session day="4" innings="3" number="2" overs="25.0" runs="98" status_id="1" time="12:43:11" timestamp_UTC="20250713T124311+0000" wickets="4">
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="17" />
+      <player id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs_scored="2" />
+    </session>
+    <session day="4" innings="3" number="2" overs="37.0" runs="140" status_id="15" time="13:42:18" timestamp_UTC="20250713T134218+0000" wickets="4">
+      <player id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs_scored="15" />
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="36" />
+    </session>
+    <session day="4" innings="3" number="2" overs="37.0" runs="140" status_id="1" time="13:46:12" timestamp_UTC="20250713T134612+0000" wickets="4">
+      <player id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs_scored="15" />
+      <player id="4541" player_uuid="4z46e623qptbmvwf99pfvcz98" runs_scored="36" />
+    </session>
+    <session day="4" innings="3" number="2" overs="52.0" runs="175" status_id="2" time="14:42:09" timestamp_UTC="20250713T144209+0000" wickets="6">
+      <player id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs_scored="27" />
+      <player id="4074" player_uuid="ejow5fczazlo1qqm97dz3wpks" runs_scored="8" />
+    </session>
+    <session day="4" innings="3" number="3" overs="52.0" runs="175" status_id="1" time="15:02:10" timestamp_UTC="20250713T150210+0000" wickets="6">
+      <player id="4489" player_uuid="dfj9tj9u20y4kms3kqrmkioho" runs_scored="27" />
+      <player id="4074" player_uuid="ejow5fczazlo1qqm97dz3wpks" runs_scored="8" />
+    </session>
+    <session day="4" innings="3" number="3" overs="62.1" runs="192" status_id="4" time="15:50:02" timestamp_UTC="20250713T155002+0000" wickets="10">
+      <player id="9855" player_uuid="1536j7r3i8gynncj0im8rmq2k" runs_scored="5" />
+    </session>
+    <session day="4" innings="4" number="3" overs="0.0" runs="0" status_id="1" time="16:00:53" timestamp_UTC="20250713T160053+0000" wickets="0">
+      <player id="12690" player_uuid="975vlzpu3rlsepme2glegxg8s" runs_scored="0" />
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="0" />
+    </session>
+    <session day="4" innings="4" number="3" overs="10.0" runs="35" status_id="15" time="16:47:16" timestamp_UTC="20250713T164716+0000" wickets="1">
+      <player id="5342" player_uuid="4zb70wvdmdga1twyond5tzbzw" runs_scored="12" />
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="21" />
+    </session>
+    <session day="4" innings="4" number="3" overs="10.0" runs="35" status_id="1" time="16:49:56" timestamp_UTC="20250713T164956+0000" wickets="1">
+      <player id="5342" player_uuid="4zb70wvdmdga1twyond5tzbzw" runs_scored="12" />
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="21" />
+    </session>
+    <session day="4" innings="4" number="3" overs="17.4" runs="58" status_id="5" time="17:32:54" timestamp_UTC="20250713T173254+0000" wickets="4">
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="33" />
+    </session>
+    <session day="5" innings="4" number="1" overs="17.4" runs="58" status_id="1" time="10:00:11" timestamp_UTC="20250714T100011+0000" wickets="4">
+      <player id="8229" player_uuid="94asxemad4e6r4eok0ptx36gs" runs_scored="0" />
+      <player id="6698" player_uuid="4zm0sngkdf418oix17s8tvbek" runs_scored="33" />
+    </session>
+    <session day="5" innings="4" number="1" overs="29.0" runs="95" status_id="15" time="11:03:43" timestamp_UTC="20250714T110343+0000" wickets="7">
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="12" />
+      <player id="13733" player_uuid="3epfhbczdu7xzwpuqcqjlbgcc" runs_scored="3" />
+    </session>
+    <session day="5" innings="4" number="1" overs="29.0" runs="95" status_id="1" time="11:07:04" timestamp_UTC="20250714T110704+0000" wickets="7">
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="12" />
+      <player id="13733" player_uuid="3epfhbczdu7xzwpuqcqjlbgcc" runs_scored="3" />
+    </session>
+    <session day="5" innings="4" number="1" overs="39.3" runs="112" status_id="3" time="11:58:42" timestamp_UTC="20250714T115842+0000" wickets="8">
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="17" />
+    </session>
+    <session day="5" innings="4" number="2" overs="39.3" runs="112" status_id="1" time="12:38:24" timestamp_UTC="20250714T123824+0000" wickets="8">
+      <player id="6684" player_uuid="4zlws7ncp3g6e6o2yuzug4ha4" runs_scored="0" />
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="17" />
+    </session>
+    <session day="5" innings="4" number="2" overs="53.0" runs="137" status_id="15" time="13:41:30" timestamp_UTC="20250714T134130+0000" wickets="8">
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="38" />
+      <player id="6684" player_uuid="4zlws7ncp3g6e6o2yuzug4ha4" runs_scored="4" />
+    </session>
+    <session day="5" innings="4" number="2" overs="53.0" runs="137" status_id="1" time="13:45:37" timestamp_UTC="20250714T134537+0000" wickets="8">
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="38" />
+      <player id="6684" player_uuid="4zlws7ncp3g6e6o2yuzug4ha4" runs_scored="4" />
+    </session>
+    <session day="5" innings="4" number="2" overs="70.0" runs="163" status_id="2" time="15:12:42" timestamp_UTC="20250714T151242+0000" wickets="9">
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="56" />
+      <player id="11100" player_uuid="50paeop1dwdb43mt8vwmeyfek" runs_scored="2" />
+    </session>
+    <session day="5" innings="4" number="3" overs="70.0" runs="163" status_id="1" time="15:30:52" timestamp_UTC="20250714T153052+0000" wickets="9">
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="56" />
+      <player id="11100" player_uuid="50paeop1dwdb43mt8vwmeyfek" runs_scored="2" />
+    </session>
+    <session day="5" innings="4" number="3" overs="74.5" runs="170" status_id="10" time="15:52:37" timestamp_UTC="20250714T155237+0000" wickets="10">
+      <player id="3856" player_uuid="4yvbag04dfkuoo5xlq920cdq4" runs_scored="61" />
+    </session>
+  </SessionUpdates>
+</CricketMatchSummary>

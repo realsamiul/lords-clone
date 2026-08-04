@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2001-2025 Opta Sportsdata Ltd. All rights reserved. -->
+
+<!-- PRODUCTION HEADER
+     produced on:        inxopta-djobq06.nexus.opta.net
+     production time:    20250711T133030,19Z
+     production module:  Opta::Feed::XML::Cricket::C6
+-->
+<ManttenFeed>
+  <Innings id="1">
+    <Manhatten over_no="0" run_rate="2.00" runs="2" wickets="0" />
+    <Manhatten over_no="1" run_rate="4.00" runs="8" wickets="0" />
+    <Manhatten over_no="2" run_rate="3.00" runs="9" wickets="0" />
+    <Manhatten over_no="3" run_rate="2.25" runs="9" wickets="0" />
+    <Manhatten over_no="4" run_rate="3.00" runs="15" wickets="0" />
+    <Manhatten over_no="5" run_rate="2.50" runs="15" wickets="0" />
+    <Manhatten over_no="6" run_rate="2.14" runs="15" wickets="0" />
+    <Manhatten over_no="7" run_rate="3.50" runs="28" wickets="0" />
+    <Manhatten over_no="8" run_rate="3.67" runs="33" wickets="0" />
+    <Manhatten over_no="9" run_rate="3.50" runs="35" wickets="0" />
+    <Manhatten over_no="10" run_rate="3.18" runs="35" wickets="0" />
+    <Manhatten over_no="11" run_rate="3.00" runs="36" wickets="0" />
+    <Manhatten over_no="12" run_rate="3.00" runs="39" wickets="0" />
+    <Manhatten over_no="13" run_rate="3.14" runs="44" wickets="2" />
+    <Manhatten over_no="14" run_rate="2.93" runs="44" wickets="2" />
+    <Manhatten over_no="15" run_rate="2.81" runs="45" wickets="2" />
+    <Manhatten over_no="16" run_rate="3.18" runs="54" wickets="2" />
+    <Manhatten over_no="17" run_rate="3.06" runs="55" wickets="2" />
+    <Manhatten over_no="18" run_rate="3.05" runs="58" wickets="2" />
+    <Manhatten over_no="19" run_rate="3.25" runs="65" wickets="2" />
+    <Manhatten over_no="20" run_rate="3.24" runs="68" wickets="2" />
+    <Manhatten over_no="21" run_rate="3.32" runs="73" wickets="2" />
+    <Manhatten over_no="22" run_rate="3.52" runs="81" wickets="2" />
+    <Manhatten over_no="23" run_rate="3.42" runs="82" wickets="2" />
+    <Manhatten over_no="24" run_rate="3.32" runs="83" wickets="2" />
+    <Manhatten over_no="25" run_rate="3.35" runs="87" wickets="2" />
+    <Manhatten over_no="26" run_rate="3.26" runs="88" wickets="2" />
+    <Manhatten over_no="27" run_rate="3.18" runs="89" wickets="2" />
+    <Manhatten over_no="28" run_rate="3.07" runs="89" wickets="2" />
+    <Manhatten over_no="29" run_rate="2.97" runs="89" wickets="2" />
+    <Manhatten over_no="30" run_rate="2.87" runs="89" wickets="2" />
+    <Manhatten over_no="31" run_rate="2.81" runs="90" wickets="2" />
+    <Manhatten over_no="32" run_rate="2.76" runs="91" wickets="2" />
+    <Manhatten over_no="33" run_rate="2.79" runs="95" wickets="2" />
+    <Manhatten over_no="34" run_rate="2.80" runs="98" wickets="2" />
+    <Manhatten over_no="35" run_rate="2.81" runs="101" wickets="2" />
+    <Manhatten over_no="36" run_rate="2.95" runs="109" wickets="2" />
+    <Manhatten over_no="37" run_rate="2.89" runs="110" wickets="2" />
+    <Manhatten over_no="38" run_rate="2.87" runs="112" wickets="2" />
+    <Manhatten over_no="39" run_rate="2.88" runs="115" wickets="2" />
+    <Manhatten over_no="40" run_rate="2.83" runs="116" wickets="2" />
+    <Manhatten over_no="41" run_rate="2.86" runs="120" wickets="2" />
+    <Manhatten over_no="42" run_rate="2.93" runs="126" wickets="2" />
+    <Manhatten over_no="43" run_rate="2.95" runs="130" wickets="2" />
+    <Manhatten over_no="44" run_rate="3.00" runs="135" wickets="2" />
+    <Manhatten over_no="45" run_rate="3.09" runs="142" wickets="2" />
+    <Manhatten over_no="46" run_rate="3.17" runs="149" wickets="2" />
+    <Manhatten over_no="47" run_rate="3.15" runs="151" wickets="2" />
+    <Manhatten over_no="48" run_rate="3.12" runs="153" wickets="2" />
+    <Manhatten over_no="49" run_rate="3.10" runs="155" wickets="3" />
+    <Manhatten over_no="50" run_rate="3.14" runs="160" wickets="3" />
+    <Manhatten over_no="51" run_rate="3.21" runs="167" wickets="3" />
+    <Manhatten over_no="52" run_rate="3.21" runs="170" wickets="3" />
+    <Manhatten over_no="53" run_rate="3.19" runs="172" wickets="3" />
+    <Manhatten over_no="54" run_rate="3.13" runs="172" wickets="4" />
+    <Manhatten over_no="55" run_rate="3.09" runs="173" wickets="4" />
+    <Manhatten over_no="56" run_rate="3.09" runs="176" wickets="4" />
+    <Manhatten over_no="57" run_rate="3.19" runs="185" wickets="4" />
+    <Manhatten over_no="58" run_rate="3.19" runs="188" wickets="4" />
+    <Manhatten over_no="59" run_rate="3.20" runs="192" wickets="4" />
+    <Manhatten over_no="60" run_rate="3.16" runs="193" wickets="4" />
+    <Manhatten over_no="61" run_rate="3.16" runs="196" wickets="4" />
+    <Manhatten over_no="62" run_rate="3.11" runs="196" wickets="4" />
+    <Manhatten over_no="63" run_rate="3.12" runs="200" wickets="4" />
+    <Manhatten over_no="64" run_rate="3.11" runs="202" wickets="4" />
+    <Manhatten over_no="65" run_rate="3.08" runs="203" wickets="4" />
+    <Manhatten over_no="66" run_rate="3.09" runs="207" wickets="4" />
+    <Manhatten over_no="67" run_rate="3.13" runs="213" wickets="4" />
+    <Manhatten over_no="68" run_rate="3.12" runs="215" wickets="4" />
+    <Manhatten over_no="69" run_rate="3.09" runs="216" wickets="4" />
+    <Manhatten over_no="70" run_rate="3.08" runs="219" wickets="4" />
+    <Manhatten over_no="71" run_rate="3.12" runs="225" wickets="4" />
+    <Manhatten over_no="72" run_rate="3.10" runs="226" wickets="4" />
+    <Manhatten over_no="73" run_rate="3.05" runs="226" wickets="4" />
+    <Manhatten over_no="74" run_rate="3.04" runs="228" wickets="4" />
+    <Manhatten over_no="75" run_rate="3.08" runs="234" wickets="4" />
+    <Manhatten over_no="76" run_rate="3.06" runs="236" wickets="4" />
+    <Manhatten over_no="77" run_rate="3.04" runs="237" wickets="4" />
+    <Manhatten over_no="78" run_rate="3.04" runs="240" wickets="4" />
+    <Manhatten over_no="79" run_rate="3.02" runs="242" wickets="4" />
+    <Manhatten over_no="80" run_rate="3.02" runs="245" wickets="4" />
+    <Manhatten over_no="81" run_rate="3.02" runs="248" wickets="4" />
+    <Manhatten over_no="82" run_rate="3.02" runs="251" wickets="4" />
+    <Manhatten over_no="83" run_rate="3.04" runs="255" wickets="4" />
+    <Manhatten over_no="84" run_rate="3.01" runs="256" wickets="4" />
+    <Manhatten over_no="85" run_rate="3.03" runs="261" wickets="5" />
+    <Manhatten over_no="86" run_rate="3.11" runs="271" wickets="5" />
+    <Manhatten over_no="87" run_rate="3.08" runs="271" wickets="7" />
+    <Manhatten over_no="88" run_rate="3.08" runs="274" wickets="7" />
+    <Manhatten over_no="89" run_rate="3.13" runs="282" wickets="7" />
+    <Manhatten over_no="90" run_rate="3.20" runs="291" wickets="7" />
+    <Manhatten over_no="91" run_rate="3.23" runs="297" wickets="7" />
+    <Manhatten over_no="92" run_rate="3.25" runs="302" wickets="7" />
+    <Manhatten over_no="93" run_rate="3.27" runs="307" wickets="7" />
+    <Manhatten over_no="94" run_rate="3.27" runs="311" wickets="7" />
+    <Manhatten over_no="95" run_rate="3.25" runs="312" wickets="7" />
+    <Manhatten over_no="96" run_rate="3.24" runs="314" wickets="7" />
+    <Manhatten over_no="97" run_rate="3.22" runs="316" wickets="7" />
+    <Manhatten over_no="98" run_rate="3.21" runs="318" wickets="7" />
+    <Manhatten over_no="99" run_rate="3.24" runs="324" wickets="7" />
+    <Manhatten over_no="100" run_rate="3.31" runs="334" wickets="7" />
+    <Manhatten over_no="101" run_rate="3.30" runs="337" wickets="7" />
+    <Manhatten over_no="102" run_rate="3.30" runs="340" wickets="7" />
+    <Manhatten over_no="103" run_rate="3.32" runs="345" wickets="7" />
+    <Manhatten over_no="104" run_rate="3.36" runs="353" wickets="7" />
+    <Manhatten over_no="105" run_rate="3.34" runs="354" wickets="7" />
+    <Manhatten over_no="106" run_rate="3.36" runs="359" wickets="8" />
+    <Manhatten over_no="107" run_rate="3.42" runs="369" wickets="8" />
+    <Manhatten over_no="108" run_rate="3.39" runs="369" wickets="8" />
+    <Manhatten over_no="109" run_rate="3.36" runs="370" wickets="9" />
+    <Manhatten over_no="110" run_rate="3.42" runs="380" wickets="9" />
+    <Manhatten over_no="111" run_rate="3.39" runs="380" wickets="9" />
+    <Manhatten over_no="112" run_rate="3.42" runs="387" wickets="10" />
+  </Innings>
+  <MatchDetail away_team="India" competition_id="3542" competition_name="England v India Test Series 2025" description="3rd Test" game_date="2025-07-10" game_date_time="2025-07-10T11:00:00+01:00" game_id="62425" game_uuid="a2wzlljrb46ngx62n1f14156k" home_team="England" number_days="5" result="England are 387 all out" status_id="4" toss="England won the toss and elected to bat." venue_id="40" />
+</ManttenFeed>

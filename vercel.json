@@ -1,15 +1,7 @@
 {
   "version": 2,
-  "builds": [
-    {
-      "src": "index.html",
-      "use": "@vercel/static"
-    }
-  ],
+  "builds": [{ "src": "**/*", "use": "@vercel/static" }],
   "routes": [
-    {
-      "src": "/(.*)",
-      "dest": "/$1"
-    }
+    { "src": "/", "dest": "/lords.org/lords/match-day/fixtures-and-results/2025/lord-s/international/england-v-india-men-s.html" }
   ]
 }
